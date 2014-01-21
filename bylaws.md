@@ -15,6 +15,8 @@ April 14, 2013
 
 ## Article I: The Bylaws
 
+### Section 1: Definition
+
 The following shall be known as the bylaws of the Psi Upsilon Fraternity, Epsilon Iota Chapter.
 
 ### Section 2: Adoption
