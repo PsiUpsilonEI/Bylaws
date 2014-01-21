@@ -2,16 +2,16 @@ BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 ================================================================
 
 April 14, 2013
---------------
 
-Officers at Time of Ratification
-President:      Caroline Wells
-Vice President: Jay Harmon
-Treasurer:      Alex Mavis
-House Manager:  Max Ensley-Field
-Secretary:      Alex Kumbar
-IFC Representative: Brittany Walker
-By-laws Committee: Alex Mavis, Caroline Wells,
+### Officers at Time of Ratification
+
+- President:      Caroline Wells
+- Vice President: Jay Harmon
+- Treasurer:      Alex Mavis
+- House Manager:  Max Ensley-Field
+- Secretary:      Alex Kumbar
+- IFC Representative: Brittany Walker
+- By-laws Committee: Alex Mavis, Caroline Wells,
 
 ## Article I: The Bylaws
 
