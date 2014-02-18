@@ -601,3 +601,37 @@ C. ExAn alumnus that is still a full time student falls under the payment rules 
 
 1. If the chapter has too few brothers to fill positions with the GPA requirement in place, the requirement shall be suspended until sufficient numbers are active.
 2. Pledges should be educated about this policy and what it entails prior to initiating.
+
+## Appendix 1: Vote class totals
+
+Class D is the MAXIMUM number of no votes where the vote still passes
+
+| Brothers | A  | B  | C  | D  |
+| -------: | -- | -- | -- | -- |
+|       10 | 6  | 7  | 9  | 0  |
+|       11 | 6  | 8  | 10 | 0  |
+|       12 | 7  | 8  | 11 | 0  |
+|       13 | 7  | 9  | 12 | 0  |
+|       14 | 8  | 10 | 13 | 0  |
+|       15 | 8  | 10 | 14 | 0  |
+|       16 | 9  | 11 | 15 | 0  |
+|       17 | 9  | 12 | 16 | 0  |
+|       18 | 10 | 12 | 17 | 0  |
+|       19 | 10 | 13 | 18 | 0  |
+|       20 | 11 | 14 | 18 | 1  |
+|       21 | 11 | 14 | 19 | 1  |
+|       22 | 12 | 15 | 20 | 1  |
+|       23 | 12 | 16 | 21 | 1  |
+|       24 | 13 | 16 | 22 | 1  |
+|       25 | 13 | 17 | 23 | 1  |
+|       26 | 14 | 18 | 24 | 1  |
+|       27 | 14 | 18 | 25 | 1  |
+|       28 | 15 | 19 | 26 | 1  |
+|       29 | 15 | 20 | 27 | 1  |
+
+```python
+def class_A(num): return math.floor(num/2) + 1
+def class_B(num): return math.ceil(num * 2 / 3)
+def class_C(num): return math.ceil(num * 9 / 10)
+def class_D(num): return math.floor(num * .05)
+```
