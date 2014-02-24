@@ -1,4 +1,3 @@
-
 # BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 
 April 14, 2013
@@ -540,7 +539,7 @@ C. ExAn alumnus that is still a full time student falls under the payment rules 
 
 ### Section 3: Room selection
 
-. The President shall have first preference in room selection.  Preference then goes to the remaining brothers in order of ascending EI number.
+The President shall have first preference in room selection.  Preference then goes to the remaining brothers in order of ascending EI number.
 
 ## Article X: Alcohol Policy
 
