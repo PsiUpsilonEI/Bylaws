@@ -4,13 +4,12 @@ April 14, 2013
 
 ### Officers at Time of Ratification
 
-- President:      Caroline Wells
-- Vice President: Jay Harmon
-- Treasurer:      Alex Mavis
-- House Manager:  Max Ensley-Field
-- Secretary:      Alex Kumbar
-- IFC Representative: Brittany Walker
-- By-laws Committee: Alex Mavis, Caroline Wells,
+- President: Alex Kumbar
+- Vice President: Kelly Pifer
+- Treasurer: Alex Kau
+- House Manager: Jay Harmon
+- Secretary: Eric Grimaldi
+- IFC Representative: Jess Krajewski
 
 ## Article I: The Bylaws
 
