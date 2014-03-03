@@ -188,15 +188,14 @@ April 14, 2013
 
 #### Subsection A: General
 
-1. Election of officers shall be by secret ballot.
-2. A Class A vote is necessary for the election of an officer.
-3. Election days shall be determined by the president. Election of the Major Offices must be in November or December.
-4. Each officer will serve for one year or until the next election.
-5. New officers take office at the Chapter meeting after they are elected or at the first Chapter meeting of the next semester; to be determined by the President.
-6. Nominations must be made at a meeting one (1) week prior to elections.  The Secretary shall post a list of nominees for the week previous to the elections.
-7. The Secretary shall post the names of the successful candidates for at least one week.
-8. A brother may not hold more than one major office, unless the number of major offices is greater than the numerical size of the Chapter.
-9. Only active brothers are allowed to hold an office. Excused members are allowed to run for office provided that their return to active status will be before their term is to begin.
+1. A Class A vote is necessary for the election of an officer.
+2. Election days shall be determined by the president. Election of the Major Offices must be in November or December.
+3. Each officer will serve for one year or until the next election.
+4. New officers take office at the Chapter meeting after they are elected or at the first Chapter meeting of the next semester; to be determined by the President.
+5. Nominations must be made at a meeting one (1) week prior to elections.  The Secretary shall post a list of nominees for the week previous to the elections.
+6. The Secretary shall post the names of the successful candidates for at least one week.
+7. A brother may not hold more than one major office, unless the number of major offices is greater than the numerical size of the Chapter.
+8. Only active brothers are allowed to hold an office. Excused members are allowed to run for office provided that their return to active status will be before their term is to begin.
 
 #### Subsection B: Appointed Positions
 
