@@ -565,7 +565,7 @@ The President shall have first preference in room selection.  Preference then go
 2. All officers of the Executive Committee must retain above a 2.50 GPA per semester. Any officer who falls below this threshold is subject to review for continued office.
 3. GPA will be calculated according to Rensselaer Polytechnic Institute’s standards, will be based on the biannual grade report given to the Archon by RPI, and will be shared only with the Archon and the Scholarship Chair unless an Executive Committee review is required.
 
-### Section 4: Acedemic standing
+### Section 4: Academic standing
 
 1. Each member of the Chapter will have their academic standing assigned by the Scholarship Chair according to the following guidelines:
   1. A member with a GPA in excess of 3.50 will be considered to be on Exceptional academic standing
