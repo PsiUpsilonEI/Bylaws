@@ -1,14 +1,14 @@
 # BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 
-April 14, 2013
+September 17, 2014
 
 ### Officers at Time of Ratification
 
 - President: Alex Kumbar
 - Vice President: Kelly Pifer
 - Treasurer: Alex Kau
-- House Manager: Jay Harmon
-- Secretary: Eric Grimaldi
+- House Manager: Sam Jones
+- Secretary: Luna King
 - IFC Representative: Jess Krajewski
 
 ## Article I: The Bylaws
@@ -64,7 +64,7 @@ April 14, 2013
 2. Meetings shall be run according to the general format described in Robert’s Rules of Order (revised), subject to the discretion of the President and Warden.
 3. Special meetings may be called at the written request of five (5) members or at the call of the President.
 
-### Section 2: Attendence
+### Section 2: Attendance
 
 1. Inactive, honorary, and alumni brothers may attend any meetings, but may not vote.
 2. All non-members must not be on Chapter premises during the time of a Chapter meeting.
@@ -130,15 +130,15 @@ April 14, 2013
 ### Section 7: Honorary Membership
 
 1. At the brotherhood’s approval, anyone may become an honorary brother.
-2. Proposal and vote for honerary membership shall follow the same procedure as that for giving out a bid (See Article IV, Section 2, 3-4)
-3. Honerary Brother proposals are voted on and executed in the same manner as pledge initiation (See Article IV, Section 3, 5).
+2. Proposal and vote for honorary membership shall follow the same procedure as that for giving out a bid (See Article IV, Section 2, 3-4)
+3. Honorary Brother proposals are voted on and executed in the same manner as pledge initiation (See Article IV, Section 3, 5).
 4. Honorary Members are not required to pay dues.
 
 ### Section 8: Excused Membership
 
 1. An excused member is a member in good faith who has opted to become excused and therefore has no responsibilities and limited rights of an active member.
 2. Members who participate in the RPI co-op program, or who take a temporary leave from RPI, are considered excused.
-3. Excused members may not vote or hold offince. However, excused members may run in elections when the term they take office is after they return to RPI.
+3. Excused members may not vote or hold office. However, excused members may run in elections when the term they take office is after they return to RPI.
 4. To return to active status, an excused member must simply announce their intentions to return to active membership during a Chapter meeting, and thereby are restored to active status.
 
 ## Article V: Officers, Elections, Duties, and Powers
@@ -179,7 +179,7 @@ April 14, 2013
     5. General Representative
     6. Special Representative
 
-#### Subsection B: Catagorization and Caveats
+#### Subsection B: Categorization and Caveats
 
 1. All House Officers may appoint an assistant.
 2. All the offices under "Executive Committee" and "Major House Offices" are considered Major Offices. All others are considered Minor Offices.
@@ -208,7 +208,7 @@ April 14, 2013
 2. A Class A vote is necessary for the election of a non-class-specific Judicial Board representative.
 3. Election of Judicial Committee representatives shall be held within two weeks of initiation.
 4. Each representative on the Judicial Committee shall serve for one semester or until the next election
-5. The President or Vice President may not hold a Judical Board postion. Should a Judicial Board Representative be elected President or Vice-President, an election shall be held according to their position on the Judicial Board to replace them.
+5. The President or Vice President may not hold a Judicial Board position. Should a Judicial Board Representative be elected President or Vice-President, an election shall be held according to their position on the Judicial Board to replace them.
 
 ### Section 3: Impeachment
 
@@ -442,7 +442,7 @@ April 14, 2013
 1. Shall be chaired by the Fraternity Educator.
 2. Shall be responsible for defining a Fraternity education program and help the Fraternity Educator implement such a program.
 
-### Seciotn 9 Ad-hoc Committees
+### Section 9 Ad-hoc Committees
 
 1. Shall be chaired by an appointee of the Archon.
 2. Shall meet as directed by the appointed chair or Archon, until the committee is no longer required.
@@ -503,7 +503,7 @@ C. ExAn alumnus that is still a full time student falls under the payment rules 
 
 1. The Social Chairman shall not have to pay his share of the Chapter’s “3-3” cost which he organizes and oversees.
 
-### Section 12: Judical Board Appeals
+### Section 12: Judicial Board Appeals
 
 1. Any brother may appeal to the Judicial Board for exemption from these rules.  If granted, no fine(s) will be levied.
 
@@ -543,7 +543,7 @@ The President shall have first preference in room selection.  Preference then go
 
 ### Section 1: References
 
-1. The Chapter shall abide by the following policies and guidlines:
+1. The Chapter shall abide by the following policies and guidelines:
   1. RPI’s Alcohol Policy (Section II, “RPI Alcohol Recommendations”).
   2. RPI’s guidelines for fraternity parties (Appendix E, “RPI Alcohol Recommendations”).
   3. RPI’s IFC Policy on Alcoholic Consumption.
@@ -565,7 +565,7 @@ The President shall have first preference in room selection.  Preference then go
 2. All officers of the Executive Committee must retain above a 2.50 GPA per semester. Any officer who falls below this threshold is subject to review for continued office.
 3. GPA will be calculated according to Rensselaer Polytechnic Institute’s standards, will be based on the biannual grade report given to the Archon by RPI, and will be shared only with the Archon and the Scholarship Chair unless an Executive Committee review is required.
 
-### Section 4: Acedemic standing
+### Section 4: Academic standing
 
 1. Each member of the Chapter will have their academic standing assigned by the Scholarship Chair according to the following guidelines:
   1. A member with a GPA in excess of 3.50 will be considered to be on Exceptional academic standing
