@@ -1,6 +1,6 @@
 # BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 
-April 14, 2013
+September 17, 2014
 
 ### Officers at Time of Ratification
 
