@@ -51,7 +51,7 @@ September 17, 2014
 1. Class A - Majority of the active brotherhood.
 2. Class B - Two-thirds of the active brotherhood.
 3. Class C - Nine-tenths of the active brotherhood.
-4. Class D - No more than five-percent negative votes of the active brotherhood.
+4. Class D - No more than five-percent negative votes of the active brotherhood or two negative votes, whichever is greater.
 5. Class E - Majority of the E-board (at least 4 out of 6 vote yes).
 6. Class J – Majority of J-Board (at least 3 out of 5 vote yes).
 7. Class XJ – Two-Thirds majority of non-J-Board members.
@@ -606,31 +606,31 @@ Class D is the MAXIMUM number of no votes where the vote still passes
 
 | Brothers  | Class A | Class B | Class C | Class D |
 | ---------:| ------- | ------- | ------- | ------- |
-| 10        | 6       | 7       | 9       | 0       |
-| 11        | 6       | 8       | 10      | 0       |
-| 12        | 7       | 8       | 11      | 0       |
-| 13        | 7       | 9       | 12      | 0       |
-| 14        | 8       | 10      | 13      | 0       |
-| 15        | 8       | 10      | 14      | 0       |
-| 16        | 9       | 11      | 15      | 0       |
-| 17        | 9       | 12      | 16      | 0       |
-| 18        | 10      | 12      | 17      | 0       |
-| 19        | 10      | 13      | 18      | 0       |
-| 20        | 11      | 14      | 18      | 1       |
-| 21        | 11      | 14      | 19      | 1       |
-| 22        | 12      | 15      | 20      | 1       |
-| 23        | 12      | 16      | 21      | 1       |
-| 24        | 13      | 16      | 22      | 1       |
-| 25        | 13      | 17      | 23      | 1       |
-| 26        | 14      | 18      | 24      | 1       |
-| 27        | 14      | 18      | 25      | 1       |
-| 28        | 15      | 19      | 26      | 1       |
-| 29        | 15      | 20      | 27      | 1       |
+| 10        | 6       | 7       | 9       | 2       |
+| 11        | 6       | 8       | 10      | 2       |
+| 12        | 7       | 8       | 11      | 2       |
+| 13        | 7       | 9       | 12      | 2       |
+| 14        | 8       | 10      | 13      | 2       |
+| 15        | 8       | 10      | 14      | 2       |
+| 16        | 9       | 11      | 15      | 2       |
+| 17        | 9       | 12      | 16      | 2       |
+| 18        | 10      | 12      | 17      | 2       |
+| 19        | 10      | 13      | 18      | 2       |
+| 20        | 11      | 14      | 18      | 2       |
+| 21        | 11      | 14      | 19      | 2       |
+| 22        | 12      | 15      | 20      | 2       |
+| 23        | 12      | 16      | 21      | 2       |
+| 24        | 13      | 16      | 22      | 2       |
+| 25        | 13      | 17      | 23      | 2       |
+| 26        | 14      | 18      | 24      | 2       |
+| 27        | 14      | 18      | 25      | 2       |
+| 28        | 15      | 19      | 26      | 2       |
+| 29        | 15      | 20      | 27      | 2       |
 
 
 ```python
 def class_A(num): return math.floor(num/2) + 1
 def class_B(num): return math.ceil(num * 2 / 3)
 def class_C(num): return math.ceil(num * 9 / 10)
-def class_D(num): return math.floor(num * .05)
+def class_D(num): return max(int(math.floor(num* .05)), 2)
 ```
