@@ -356,6 +356,7 @@ September 17, 2014
 1. Shall be responsible for suggested changes to the Chapter’s Alcohol Policy (see Article X) as state and local laws change and as the Chapter evolves.
 2. Shall be responsible for identifying any potential hazards within the Chapter House or at a Chapter event
 3. Shall monitor parties according to all Institute, State, Federal and Psi Upsilon International Fraternity policies.
+4. Shall be responsible for  suggesting amendments to the Chapter’s Risk Management Program(See Section XI) 
 
 #### Summer House Manager
 
@@ -549,7 +550,44 @@ The President shall have first preference in room selection.  Preference then go
   3. RPI’s IFC Policy on Alcoholic Consumption.
   4. Psi Upsilon Risk Management Program
 
-## Article XI: Psi Upsilon Scholarship Policy
+
+## Article XI: Risk Management Program
+
+### Section 1: Statement
+
+1. This policy is formed such that the brothers of the Epsilon Iota Chapter of the Psi Upsilon fraternity will be able to go about their college careers with significantly reduced risk to themselves and others. It is the belief of the chapter that these policies will fulfill this goal to the best of our abilities while maintaining a friendly and happy brotherhood. We wish to form a house with a safe environment by mandating the presence of a sober brother at all times and by promoting brother intervention.
+
+### Section 2: Risk Manager
+1. It is the responsibility of the Risk Manager to ensure that at the first house meeting of every month the chapter discusses all risk management policies we hold ourselves to, whether written or unwritten, for their continued relevance and practicality.
+2. It is the responsibility of the risk manager to ensure that a brother is selected to be a sober supervisor for every day deemed necessary by the brotherhood at the beginning of the semester.
+
+### Section 3: Alcohol Containment
+1. All alcohol stored in the house owned by one or more specific brothers is to be stored in a private area and not left in the public areas of the house unattended
+2. All alcohol stored in the house not owned by any particular brother is declared house alcohol and is to be stored in a single locked location in the basement of the house.
+3. The location chosen to store all house alcohol shall have a lock to prevent brothers from actively drinking without first making sure a sober brother is present and acting as a sober supervisor.
+4. Keys for the lock are to be given to the Risk Manager, The Archon, and the Social Chair of the Fraternity, with an additional key to be held by the designated sober brother for the evening. In the Event that any of the brothers who would be given a key is under the age of 18 their key is passed down to the next highest ranking officer on the Executive Committee. 
+5. The lock is only to be removed when a keyed brother verifies that there is a sober brother present and ready to supervise the activities and reduce risk. The lock can then remain open until the drinking has ceased but must be closed before the sober brother retires for the evening.
+
+### Section 4: Sober Supervisor Selection
+1. There must be a sober brother at the house at all times alcohol is being consumed in a public manner.
+2. At the Beginning of a semester the risk manager must designate a sober brother for every Friday and Saturday night, as well as any night with a scheduled event that may result in drinking such as parties, rituals, or any other night the brotherhood decides that it is necessary. 
+3. Every eligible brother must fulfil this role such that it is evenly distributed among the brotherhood. Any brother unwilling to fulfil this role can be fined at the request of the risk manager no more than $50.
+4. Any eligible brother who does not fulfil their duties as the sober supervisor can be fined at the request of the risk manager no more than $100. 
+4. The list of eligible sober supervisors can be determined by the list of all active brothers minus any brother under the age of 18 and any brother who does not have a valid drivers license.
+
+### Section 5: Sober Supervisor Responsibilities
+1. The Sober Supervisor is to be present at the house from 9pm until 2am the night of their scheduled shift excepting that their shift is covering a scheduled event that takes place at a different time, in which case they must cover the entire event. 
+2. In the event that there are still brothers drinking when the sober brother wishes to retire, they may have another brother fulfil the responsibilities of sober supervisor for the remainder of the evening, however they are not allowed to leave until a brother agrees to take over, or the alcohol is once again locked away and the brothers have started to sober up.
+3. The Sober brother is to remain in the common areas of the house, though they are allowed to work on anything they want or do anything they wish to occupy their time other than consume alcohol or any other intoxicating substances.
+4. The Sober Supervisor is also to act as a designated driver for any brother, whether going from the house to their home, another location to the house, or another location to their home. To fulfil this responsibility they must make sure the house phone is answered during their shift.
+5. In the event that the sober supervisor does not have a car available to them on campus another brother must make their car available to the sober supervisor to fulfil their role as a designated driver.
+6. It is the sober supervisors responsibility to make sure that brothers do not become over intoxicated and to resolve any disputes or issues that arise in a safe manner.
+7. While the sober supervisor is on duty all other brothers are subject to their authority.
+
+### Section 6: Responsibilities in the event of misfortune
+1. In the event that an issue arises the sober brother must be aware of who they are to contact. A way to reach all necessary people must be listed on the contact sheet. The Archon and Alumni Advisor should both be contacted in this situation.
+
+## Article XII: Psi Upsilon Scholarship Policy
 
 ### Section 1: Statement
 
