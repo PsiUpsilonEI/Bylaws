@@ -558,7 +558,7 @@ The President shall have first preference in room selection.  Preference then go
 1. This policy is formed such that the brothers of the Epsilon Iota Chapter of the Psi Upsilon fraternity will be able to go about their college careers with significantly reduced risk to themselves and others. It is the belief of the chapter that these policies will fulfill this goal to the best of our abilities while maintaining a friendly and happy brotherhood. We wish to form a house with a safe environment by mandating the presence of a sober brother at all times and by promoting brother intervention.
 
 ### Section 2: Risk Manager
-1. It is the responsibility of the Risk Manager to ensure that at the first house meeting of every month the chapter discusses all risk management policies we hold ourselves to, whether written or unwritten, for their continued relevance and practicality.
+1. It is the responsibility of the Risk Manager to ensure that at the first house meeting of the semester with mandated potential new member attendance the chapter discusses all risk management policies we hold ourselves to for their continued relevance and practicality.
 2. It is the responsibility of the risk manager to ensure that a brother is selected to be a sober brother for every day deemed necessary by the brotherhood at the beginning of the semester.
 
 ### Section 3: Alcohol Containment
@@ -573,7 +573,7 @@ The President shall have first preference in room selection.  Preference then go
 2. At the Beginning of a semester the risk manager must designate a sober brother for every Friday and Saturday night, as well as any night with a scheduled event that may result in drinking such as parties, gatherings, or any other night the brotherhood decides that it is necessary. 
 3. Every eligible brother must fulfil this role such that it is evenly distributed among the brotherhood. Any brother unwilling to fulfil this role can be fined at the request of the risk manager no more than $50.
 4. Any eligible brother who does not fulfil their duties as the sober brother can be fined at the request of the risk manager no more than $100. 
-4. The list of eligible sober brothers can be determined by the list of all active brothers minus any brother under the age of 18 and any brother who does not have a valid drivers license.
+5. The list of eligible sober brothers can be determined by the list of all active brothers minus any brother under the age of 18 and any brother who does not have a valid drivers license.
 
 ### Section 5: Sober Brother Responsibilities
 1. While the sober brother is on duty, they have the authority to limit the amount of alcohol someone is consuming and end the event. The sober brother should only end the event if it is after 2 am or there is reason to believe the event has become unsafe. Unsafe includes but is not limited to the likelihood of physical violence or a likelihood of individuals undertaking exceedingly dangerous pursuits.
