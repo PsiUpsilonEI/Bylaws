@@ -562,7 +562,7 @@ The President shall have first preference in room selection.  Preference then go
 2. It is the responsibility of the risk manager to ensure that a brother is selected to be a sober brother for every day deemed necessary by the brotherhood at the beginning of the semester.
 
 ### Section 3: Alcohol Containment
-1. All alcohol stored in the house owned by one or more specific brothers is to be stored in a private area and not left in the public areas of the house unattended
+1. All alcohol stored in the house owned by one or more specific brothers is to be stored in a private area or locked locations in the basement of the house, and not left in the public areas of the house unattended
 2. All alcohol stored in the house not owned by any particular brother is declared house alcohol and is to be stored in locked locations in the basement of the house.
 3. The location chosen to store all house alcohol shall have a lock to prevent brothers from consuming alcohol without first making sure a sober brother is present and acting as a sober brother.
 4. Keys for the lock are to be given to the Risk Manager, The Archon, and the Social Chair of the Fraternity, with an additional key to be held by the designated sober brother for the evening. In the Event that any of the brothers who would be given a key is under the age of 18 their key is passed down to the next highest ranking officer on the Executive Committee. 
