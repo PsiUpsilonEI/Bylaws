@@ -592,6 +592,7 @@ The President shall have first preference in room selection.  Preference then go
 3. A way to reach all necessary people must be listed on the contact sheet.
 4. Within one week, the Archon will inform Psi Upsilon international of what has occurred.
 5. This policy will be reviewed to prevent a failure of the same nature.
+6. The E-board lead by the Vice President will conduct an investigation into why no brother, sober or intoxicated, intervined to prevent the transgression. An educational program will be developed by the Risk manager to address the lack of brother bystander intervention.
 
 ## Article XII: Psi Upsilon Scholarship Policy
 
