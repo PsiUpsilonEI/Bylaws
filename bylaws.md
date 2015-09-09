@@ -233,7 +233,7 @@ October 19, 2014
 8. Must be a member of the Finance Committee.
 9. Shall have the power to create any ad-hoc committees and appoint chairmen.
 
-#### Vice-President
+#### Vice-President of Internal Affairs
 
 1. Shall perform all duties of the President in the event of the President’s absence.
 2. Shall oversee operation of all committees, i.e. attend their meetings.
@@ -279,10 +279,16 @@ October 19, 2014
 4. Shall be the Chapter’s “Diamond” editor.
 5. Is in charge of all correspondence other than that with Alumni.
 
-#### Interfraternity Council (IFC) Representative
+#### Vice-President of External Affairs
 
-1. Shall attend all IFC meetings
-2. Shall report to the Chapter all relevant events that occurred and information that was presented at all IFC meetings since the last Chapter meeting.
+1. Shall complete and submit the 5 Star Standards Accreditation and Awards of Excellence packet for the Chapter each year.
+2. Shall attend all IFC meetings
+3. Shall report to the Chapter all relevant events that occurred and information that was presented at all IFC meetings since the last Chapter meeting.
+4. Shall oversee and coordinate all matters pertaining to the external affairs of the chapter, including but not limited to:
+5. Shall submit a written report to the Chapter at the end of his or her term concerning the welfare and direction of the Chapter.
+6. Shall chair the External Affairs Committee.
+7. Shall call meetings of the External Affairs Committee no less than once every two weeks. 
+8. Shall ensure that all positions on the External Affairs Committee are supplied with the appropriate resources and are compliant with Five Star. 
 
 #### Rush Chairman
 
@@ -390,7 +396,7 @@ October 19, 2014
 1. Shall be chaired by the President.
 2. Members shall be as described in Article V, Section 1, Subsection A.
 3. Shall act as a steering committee for the Chapter where policy decisions and future is discussed.
-4. Shall meet at least once every two (2) weeks, subject to the discretion of the Vice President.
+4. Shall meet at least once every two (2) weeks, subject to the discretion of the Vice President of Internal Affairs.
 5. May make decisions concerning the Chapter, which are valid until the next Chapter meeting at which point they must be brought to the attention of the brotherhood.
 
 ### Section 2: Judicial Committee
@@ -443,7 +449,19 @@ October 19, 2014
 1. Shall be chaired by the Fraternity Educator.
 2. Shall be responsible for defining a Fraternity education program and help the Fraternity Educator implement such a program.
 
-### Section 9 Ad-hoc Committees
+### Section 9: External Affairs Committee
+
+1. Shall be chaired by the Vice-President of External Affairs.
+2. Members shall include the Rush Chairman, the Social Chairman, the Philanthropy Chairman, and the Alumni Secretary.
+3. Shall meet at least once every two (2) weeks, subject to the discretion of the Vice President of External Affairs.
+4. Responsible for compiling information from the Chapter to be used for the Chapter's Five Star submission.
+5. Shall ensure that the Philanthropy Chairman has the resources needed to conduct a charitable event compliant with Five Star.
+6. Shall ensure that the Social Chairman has the resources needed to organize social events with external organizations.
+7. Shall ensure that alumni are kept aware of official happenings at the house.
+8. Shall ensure that the Chapter's recruitment is consistent with IFC regulations and policies. 
+9. Shall ensure that all the committee members are aware of important dates and deadlines from the IFC.
+
+### Section 10 Ad-hoc Committees
 
 1. Shall be chaired by an appointee of the Archon.
 2. Shall meet as directed by the appointed chair or Archon, until the committee is no longer required.
