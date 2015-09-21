@@ -4,12 +4,12 @@ October 19, 2014
 
 ### Officers at Time of Ratification
 
-- President: Alex Kumbar
-- Vice President: Kelly Pifer
-- Treasurer: Alex Kau
-- House Manager: Sam Jones
-- Secretary: Luna King
-- IFC Representative: Jess Krajewski
+- President: Stephen Berg
+- Vice President: John Valenti
+- Treasurer: Marty Hoskins
+- House Manager: Nick Stamm
+- Secretary: Travis Tomon
+- IFC Representative: J Luppino
 
 ## Article I: The Bylaws
 
@@ -149,11 +149,11 @@ October 19, 2014
 
 1. Executive Committee
     1. President
-    2. Vice President
+    2. Vice President of Internal Affairs
     3. Treasurer
     4. House Manager
     5. Secretary
-    6. IFC Representative
+    6. Vice President of External Affairs
 2. Major House Offices
     1. Rush Chairman
     2. Social Chairman
@@ -233,7 +233,7 @@ October 19, 2014
 8. Must be a member of the Finance Committee.
 9. Shall have the power to create any ad-hoc committees and appoint chairmen.
 
-#### Vice-President
+#### Vice-President of Internal Affairs
 
 1. Shall perform all duties of the President in the event of the President’s absence.
 2. Shall oversee operation of all committees, i.e. attend their meetings.
@@ -279,10 +279,16 @@ October 19, 2014
 4. Shall be the Chapter’s “Diamond” editor.
 5. Is in charge of all correspondence other than that with Alumni.
 
-#### Interfraternity Council (IFC) Representative
+#### Vice-President of External Affairs
 
-1. Shall attend all IFC meetings
-2. Shall report to the Chapter all relevant events that occurred and information that was presented at all IFC meetings since the last Chapter meeting.
+1. Shall complete and submit the 5 Star Standards Accreditation and Awards of Excellence packet for the Chapter each year.
+2. Shall attend all IFC meetings
+3. Shall report to the Chapter all relevant events that occurred and information that was presented at all IFC meetings since the last Chapter meeting.
+4. Shall oversee and coordinate all matters pertaining to the external affairs of the chapter.
+5. Shall submit a written report to the Chapter at the end of his or her term concerning the welfare and direction of the Chapter.
+6. Shall chair the External Affairs Committee.
+7. Shall call meetings of the External Affairs Committee no less than once every two weeks. 
+8. Shall ensure that all positions on the External Affairs Committee are supplied with the appropriate resources and are compliant with Five Star. 
 
 #### Rush Chairman
 
@@ -390,7 +396,7 @@ October 19, 2014
 1. Shall be chaired by the President.
 2. Members shall be as described in Article V, Section 1, Subsection A.
 3. Shall act as a steering committee for the Chapter where policy decisions and future is discussed.
-4. Shall meet at least once every two (2) weeks, subject to the discretion of the Vice President.
+4. Shall meet at least once every two (2) weeks, subject to the discretion of the Vice President of Internal Affairs.
 5. May make decisions concerning the Chapter, which are valid until the next Chapter meeting at which point they must be brought to the attention of the brotherhood.
 
 ### Section 2: Judicial Committee
@@ -407,41 +413,47 @@ October 19, 2014
 10. Any Judicial Board representative with vested interest in a Judicial Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the Judicial Board vote and decision.
 11. If the class J vote made to a resolve a Judicial Board decision is tied, the original result of the case is upheld. If not such result exists, the decision is left to the president.
 
-### Section 3: Rush-Social Committee
-
-1. Shall be co-chaired by the Rush and Social Chairmen.
-2. Shall submit an article on the status of rush and upcoming social events to the Alumni Secretary for the “EI Material” upon request.
-3. Responsible for the planning, organizing, and running of rush and social activities of the Chapter.
-4. Shall organize a program for Chapter participation in rush.
-
-### Section 4: Community Relations Committee
+### Section 3: Community Relations Committee
 
 1. Shall be chaired by the Philanthropy Chair.
 2. Responsible for organizing community and public service projects.
 3. Responsible for the general public relations of the Chapter in the Community.
 
-### Section 5: Finance Committee
+### Section 4: Finance Committee
 
 1. Shall be chaired by the Treasurer.
 2. Responsible for preparing a budget for the following academic year.
 3. Should meet once a month or at the Treasurer’s discretion to review the Chapter’s financial status.
 
-### Section 6: Risk Management Policy Committee
+### Section 5: Risk Management Policy Committee
 
 1. Chaired by the Risk Manager.
 2. Responsible for suggesting changes to the Chapter’s Alcohol Policy (see Article X) as state and local laws change and the Chapter evolves.
 3. Shall monitor parties in accordance to the Alcohol Policy.
 
-### Section 7: House Committee
+### Section 6: House Committee
 
 1. Shall be chaired by the House Manager.
 2. Shall be responsible for major renovation of the current House.
 3. Shall meet before the end of the spring semester to determine renovations and cleaning needed to be completed prior to the fall semester.
 
-### Section 8: Pledge Education Committee
+### Section 7: Pledge Education Committee
 
 1. Shall be chaired by the Fraternity Educator.
 2. Shall be responsible for defining a Fraternity education program and help the Fraternity Educator implement such a program.
+
+### Section 8: External Affairs Committee
+
+1. Shall be chaired by the Vice-President of External Affairs.
+2. Members shall include the Rush Chairman, the Social Chairman, the Philanthropy Chairman, and the Alumni Secretary.
+3. Shall meet at least once every two (2) weeks.
+4. Responsible for compiling information from the Chapter to be used for the Chapter's Five Star submission.
+5. Shall ensure that the Philanthropy Chairman has the resources needed to conduct a charitable event involving external organizations.
+6. Shall ensure that the Social Chairman has the resources needed to organize social events with external organizations.
+7. Shall ensure that the Alumni Secretary is given all information that needs to be passed on to alumni.
+8. Shall ensure that the Chapter's recruitment is consistent with IFC regulations and policies. 
+9. Shall ensure that all committee members are aware of important dates and deadlines from the IFC.
+10. Shall ensure that the planning and organization of events is coordinated between the Rush and Social Chairmen.
 
 ### Section 9 Ad-hoc Committees
 
