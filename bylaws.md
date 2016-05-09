@@ -4,12 +4,12 @@ October 19, 2014
 
 ### Officers at Time of Ratification
 
-- President: Stephen Berg
-- Vice President: John Valenti
-- Treasurer: Marty Hoskins
-- House Manager: Nick Stamm
-- Secretary: Travis Tomon
-- IFC Representative: J Luppino
+- President: Matt Bernstein
+- Vice President of Internal: Kelly Shultz
+- Vice President of External: Jessica Krajewski
+- Treasurer: Alex Kumbar
+- House Manager: Chris Vigerito
+- Secretary: Dani Real
 
 ## Article I: The Bylaws
 
@@ -150,10 +150,10 @@ October 19, 2014
 1. Executive Committee
     1. President
     2. Vice President of Internal Affairs
-    3. Treasurer
-    4. House Manager
-    5. Secretary
-    6. Vice President of External Affairs
+    3. Vice President of External Affairs
+    4. Treasurer
+    5. House Manager
+    6. Secretary
 2. Major House Offices
     1. Rush Chairman
     2. Social Chairman
@@ -248,6 +248,17 @@ October 19, 2014
 11. Is responsible for keeping order at Chapter meetings.
 12. By request of the President, Shall remove an individual deemed to be disorderly at a Chapter meeting
 
+#### Vice-President of External Affairs
+
+1. Shall complete and submit the 5 Star Standards Accreditation and Awards of Excellence packet for the Chapter each year.
+2. Shall attend all IFC meetings
+3. Shall report to the Chapter all relevant events that occurred and information that was presented at all IFC meetings since the last Chapter meeting.
+4. Shall oversee and coordinate all matters pertaining to the external affairs of the chapter.
+5. Shall submit a written report to the Chapter at the end of his or her term concerning the welfare and direction of the Chapter.
+6. Shall chair the External Affairs Committee.
+7. Shall call meetings of the External Affairs Committee no less than once every two weeks. 
+8. Shall ensure that all positions on the External Affairs Committee are supplied with the appropriate resources and are compliant with Five Star. 
+
 #### Treasurer
 
 1. Shall keep financial records of the Chapter.
@@ -278,17 +289,6 @@ October 19, 2014
 3. Shall incorporate into the bylaws amendments to the said bylaws.
 4. Shall be the Chapter’s “Diamond” editor.
 5. Is in charge of all correspondence other than that with Alumni.
-
-#### Vice-President of External Affairs
-
-1. Shall complete and submit the 5 Star Standards Accreditation and Awards of Excellence packet for the Chapter each year.
-2. Shall attend all IFC meetings
-3. Shall report to the Chapter all relevant events that occurred and information that was presented at all IFC meetings since the last Chapter meeting.
-4. Shall oversee and coordinate all matters pertaining to the external affairs of the chapter.
-5. Shall submit a written report to the Chapter at the end of his or her term concerning the welfare and direction of the Chapter.
-6. Shall chair the External Affairs Committee.
-7. Shall call meetings of the External Affairs Committee no less than once every two weeks. 
-8. Shall ensure that all positions on the External Affairs Committee are supplied with the appropriate resources and are compliant with Five Star. 
 
 #### Rush Chairman
 
