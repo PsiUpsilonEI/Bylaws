@@ -340,6 +340,26 @@ October 19, 2014
 7. Shall keep a historical record of the Chapter.
 8. Shall be responsible for ordering magazine subscriptions, newspapers, etc.
 9. Shall be responsible for storing Judicial Board opinions and write-ups.
+10. Shall be responsible for the organization of files in the Psi Upsilon Brother Google Drive (or technological equivalent). Librarian/Historian will ensure that only active brothers have uploading privileges, and will ensure that active brothers are aware of the drive and are contributing when appropriate. 
+11. Psi Upsilon Brother Google Drive is an online document library which must include (but is not limited to):
+    1. House Manager documents, such inspection reports, fire drill reports, appliance receipts, etc. 
+    2. Rush documents, such as designs for bids, past rush calendars/current rush calendar, rush shirt designs, and other   related 
+    3. rush documents (receipts, attendance lists etc)
+    4. Copy of the budget, copy of the leases, and an empty debt contract form
+    5. Copy of the PUPPY’97 policy, and other risk policies
+    6. Meeting minutes
+    7. Scholarship backwork
+    8. Photocopies of important house documents
+    9. End of year report for each position 
+    10. Current and past Five Star Reports
+    11. Given contact information and shirt size, a list of house positions, and other relevant information
+    12. Template for sign out sheet
+* Items that shall not be included:
+    1. Information pertaining to the chapter’s rituals and secrets
+    2. Personal debt contracts
+    3. Grade information that identifies any individual
+    4. Any documents that contain private/personal information (such as RINs, birth dates, addresses, health related information, etc) without the consent of the individual 
+
 
 #### Alumni/Co-op Secretary
 
