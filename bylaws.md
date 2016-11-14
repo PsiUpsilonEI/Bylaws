@@ -1,15 +1,15 @@
 # BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 
-October 19, 2014
+October 30, 2016
 
 ### Officers at Time of Ratification
 
-- President: Matt Bernstein
-- Vice President of Internal: Kelly Shultz
-- Vice President of External: Jessica Krajewski
-- Treasurer: Alex Kumbar
-- House Manager: Chris Vigerito
-- Secretary: Dani Real
+- President: Matthew Bernstein
+- Vice President of Internal Affairs: Kelly Schultz
+- Vice President of External Affairs: Jessica Krajewski
+- Treasurer: Alasdair McEwen
+- House Manager: Chris Vigorito
+- Secretary: Dani Reil
 
 ## Article I: The Bylaws
 
@@ -340,6 +340,25 @@ October 19, 2014
 7. Shall keep a historical record of the Chapter.
 8. Shall be responsible for ordering magazine subscriptions, newspapers, etc.
 9. Shall be responsible for storing Judicial Board opinions and write-ups.
+10. Shall be responsible for the organization of files in the Psi Upsilon Brother Google Drive (or technological equivalent). Librarian/Historian will ensure that only active brothers have uploading privileges, and will ensure that active brothers are aware of the drive and are contributing when appropriate. 
+11. Psi Upsilon Brother Google Drive is an online document library which must include (but is not limited to):
+    1. House Manager documents, such inspection reports, fire drill reports, appliance receipts, etc. 
+    2. Rush documents, such as designs for bids, past rush calendars/current rush calendar, rush shirt designs, and other   related rush documents (receipts, attendance lists etc)
+    3. Copy of the budget, copy of the leases, and an empty debt contract form
+    4. Copy of the PUPPY’97 policy, and other risk policies
+    5. Meeting minutes
+    6. Scholarship backwork
+    7. Photocopies of important house documents
+    8. End of year report for each position 
+    9. Current and past Five Star Reports
+    10. Given contact information and shirt size, a list of house positions, and other relevant information
+    11. Template for sign out sheet
+* Items that shall not be included:
+    1. Information pertaining to the chapter’s rituals and secrets
+    2. Personal debt contracts
+    3. Grade information that identifies any individual
+    4. Any documents that contain private/personal information (such as RINs, birth dates, addresses, health related information, etc) without the consent of the individual 
+
 
 #### Alumni/Co-op Secretary
 
@@ -472,9 +491,9 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 
 ### Section 3: Undergraduate Debt.
 
-1. Bills shall be given to each undergraduate on weeks 2 and 7 of the semester, with payments due on weeks 6 and 11 of the semester, respectively. The purpose of the week 7 bills is to remind brothers of their current debt. It should be used to point out to a brother that he/she is currently exceeding the "certain amount" (as described in section) of debt, and that they must begin monthly payments before the 11th week.
-2. If a debt is not paid in full by week 6, a payment contract should be signed by week 7. This contract should have the debtor agree to pay a monthly bill of an amount set by the Treasurer, approved by the Executive Committee, which may be set at no less than 3% or $20, whichever is greater of their outstanding debt, in addition to one sixth of the total semesterly rent/mealplan costs and in addition the full amount of signout debt. Any other payment plan must be approved by a class C vote.
-3. Upon missing a payment, there will be a fine assessed to the brother of $2 or 2% of the missed payment, whichever is greater. The treasurer must inform the brother of charges before they are levied.
+1. A debt contract will be written up by the Treasurer at the beginning of the semester for each active brother, and will be affirmed by the Archon and the brother. The contract will detail sum of the amount of debt the brother has accrued plus the International and social dues of that semester. The brother will be responsible for the repayment of that amount as detailed below, or in a manner as agreed upon by the Treasurer and brother. The sum amount will not include the rent of brothers living in house.
+2. Brothers will be responsible for the payment of 4% or $40 (whichever is greater) of their total debt on the second Sunday of the month, for the first three full months of the semester (September, October, November, February, March, and April). Brothers will receive notice from the Treasurer during the first week of the month.
+3. Upon missing three or more payments during their active membership, there will be a fine assessed to the brother of $2 or 2% of their total debt, whichever is greater. The treasurer must inform the brother of charges before they are levied.
 4. If a brother misses two consecutive monthly payments privileges may be lost at the discretion of the Archon. Those recommended are voting and social privileges.
 5. Only RPI students or active brothers are allowed to accumulate debt. Exceptions may be granted by the Executive Committee.
 
