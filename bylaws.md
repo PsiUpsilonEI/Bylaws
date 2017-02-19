@@ -354,7 +354,7 @@ October 30, 2016
     10. Given contact information and shirt size, a list of house positions, and other relevant information
     11. Template for sign out sheet
 * Items that shall not be included:
-    1. Information pertaining to the chapter’s rituals and secrets
+    1. Information pertaining to the chapter’s secrets
     2. Personal debt contracts
     3. Grade information that identifies any individual
     4. Any documents that contain private/personal information (such as RINs, birth dates, addresses, health related information, etc) without the consent of the individual 
