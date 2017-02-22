@@ -199,7 +199,7 @@ October 30, 2016
 
 #### Subsection B: Appointed Positions
 
-1. All appointed positions must be appointed by the President and approved by a Class A vote.
+1. All appointed positions must be appointed by the current postion holder and approved by the President.
 2. Appointed officers may be dismissed at the discretion of the Executive Committee.
 
 #### Subsection C: Judicial Board
