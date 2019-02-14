@@ -107,16 +107,16 @@
 
 # BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 
-October 30, 2016
+December 16, 2018
 
 ### Officers at Time of Ratification
 
-- President: Matthew Bernstein
-- Vice President of Internal Affairs: Kelly Schultz
-- Vice President of External Affairs: Jessica Krajewski
-- Treasurer: Alasdair McEwen
-- House Manager: Chris Vigorito
-- Secretary: Dani Reil
+- Archon: Ian Holland
+- Vice President of Internal Affairs: Sasha Hunter
+- Vice President of External Affairs: Tejas Narayan
+- Treasurer: Isabella Colberg
+- House Manager: Brian McGrath
+- Secretary: Andrew Smith
 
 ## Article I: The Bylaws
 
