@@ -111,7 +111,7 @@ December 16, 2018
 
 ### Officers at Time of Ratification
 
-- President: Ian Holland
+- Archon: Ian Holland
 - Vice President of Internal Affairs: Sasha Hunter
 - Vice President of External Affairs: Tejas Narayan
 - Treasurer: Isabella Colberg
