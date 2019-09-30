@@ -7,8 +7,8 @@
          * [Section 4: Amendments](#section-4-amendments)
       * [Article II: Voting](#article-ii-voting)
          * [Section 1: Franchisement](#section-1-franchisement)
-         * [Section 2: Rules](#section-2-rules)
-         * [Section 3: Vote classes](#section-3-vote-classes)
+         * [Section 2: Vote classes](#section-2-vote-classes)
+         * [Section 3: Voting on motions](#section-3-vote-on-motions)
       * [Article III: Meetings](#article-iii-meetings)
          * [Section 1: General](#section-1-general)
          * [Section 2: Attendance](#section-2-attendance)
@@ -147,11 +147,6 @@
 
 1. Only active brothers are allowed to vote
 
-### Section 2: Rules
-
-1. All fractions are rounded up. All vote classes except D measure Yes votes.
-2. An absent brother abstains, unless they submit a proxy vote to the Archon prior to the vote.
-
 ### Section 3: Vote classes
 
 1. Class A - Majority of the active brotherhood.
@@ -161,6 +156,18 @@
 5. Class E - Majority of the E-board (at least 4 out of 6 vote yes).
 6. Class J – Majority of J-Board (at least 3 out of 5 vote yes).
 7. Class XJ – Two-Thirds majority of non-J-Board members.
+
+### Section 3: Voting on motions
+
+1. The vote class for any motion not specified elsewhere in these bylaws will be at the discretion of the Archon who is advised to consult Roberts Rules. The Archon can be made to change the vote class of a motion by a class B vote. If this occurs several times each new vote class must be unique.
+2. All voting members can vote in the affirmative, the negative or abstain from voting
+3. A present member who does not vote in the affirmative, negative or abstain will have failed to vote.
+4. Fractional votes, should they exist, do not round or truncate.
+5. The brother running the vote may vote on the motion at any time prior to the announcement of the results.
+6. If a voting member cannot be present to vote on a motion they may tell their vote to the archon in advance or empower another brother to vote on their behalf.
+7. Anyone not present for a vote, that was motioned at a previous meeting and announced to the brotherhood within 24 hours of said meeting, and again 24 hours prior to the vote, who has failed to proxy vote or empower somebody to vote on their behalf, will have failed to vote.
+8. The vote of brothers who fail to vote are removed from the voting pool.
+9. If at least a quarter of possible votes are removed through failure to vote, the motion is postponed until the following meeting.
 
 ## Article III: Meetings
 
@@ -296,12 +303,35 @@
 7. A brother may not hold more than one major office, unless the number of major offices is greater than the numerical size of the Chapter.
 8. Only active brothers are allowed to hold an office. Excused members are allowed to run for office provided that their return to active status will be before their term is to begin.
 
-#### Subsection B: Appointed Positions
+#### Subsection B: Voting in Elections
+
+1. Elections are run using approval voting. As such all voters may vote for any number of candidates including all or none of them.
+2. The chair of an election may vote at any time prior to the announcement of the results of the vote.
+3. All candidates are assumed to vote for themselves and only themselves unless they specify otherwise.
+4. If a voting member cannot be present to vote in an election they may tell their vote to the archon in advance or empower another brother to vote on their behalf.
+5. Anyone not present for a vote who has failed to do either of the above is assumed to vote for all candidates.
+6. Fractional votes should they exist do not round or truncate.
+7. The winner is the candidate who receives at least one more vote than all other candidates and a majority of the voting pool.
+8. If an election does not produce a winner because the candidate with the most points does not have a one vote lead, all candidates with at least one vote less than the candidate with the most votes will be removed from the election and after discussion the vote will be held again. If this vote again fails to determine a winner, the election will be postponed until the following week, at which point a runoff election will be held according to rules outlined in the following section following a round of speeches by the candidates.
+9. If an election fails to produce a winner because no candidate has received at least half of all the voting pool, the vote will be recounted following a round of discussion. If this vote also fails to find a majority, the candidates will be brought back into the room, a new list of nominees created from scratch, and the election held the following week.
+
+#### Subsection C: Voting in Run-off Elections
+
+1. Run-off election use a plurality voting. Voters may only vote for one candidate.
+2. The chair of an election may vote at any time prior to the announcement of the results of the vote.
+3. All candidates are assumed to vote for themselves unless they specify otherwise.
+4. If a voting member cannot be present to vote in an election they may tell their vote to the archon in advance or empower another brother to vote on their behalf.
+5. Anyone not present for a vote who has failed to do either of the above is assumed to have abstained.
+6. Fractional votes should they exist do not round or truncate.
+7. The winner is the candidate who receives at least one more vote than all other candidates.
+8. If a runoff election fails to find a winner a new runoff will be held following a discussion period.
+
+#### Subsection D: Appointed Positions
 
 1. All appointed positions must be appointed by the President and approved by a Class A vote.
 2. Appointed officers may be dismissed at the discretion of the Executive Committee.
 
-#### Subsection C: Judicial Board
+#### Subsection E: Judicial Board
 
 1. An approval vote taken from among the brothers who are in a certain class at RPI, as determined by number of years in university study, shall be required to elect a class-specific Judicial Board representative.
 2. An approval vote taken from the brotherhood is necessary for the election of a non-class-specific Judicial Board representative.
