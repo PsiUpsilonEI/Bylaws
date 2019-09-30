@@ -16,11 +16,10 @@
          * [Section 1: Organization](#section-1-organization)
          * [Section 2: Pledge Membership](#section-2-pledge-membership)
          * [Section 3: Active Membership](#section-3-active-membership)
-         * [Section 4: Deactive Membership](#section-4-deactive-membership)
-         * [Section 5: Inactive Membership](#section-5-inactive-membership)
-         * [Section 6: Alumni Membership](#section-6-alumni-membership)
-         * [Section 7: Honorary Membership](#section-7-honorary-membership)
-         * [Section 8: Excused Membership](#section-8-excused-membership)
+         * [Section 4: Inactive Membership](#section-4-inactive-membership)
+         * [Section 5: Alumni Membership](#section-5-alumni-membership)
+         * [Section 6: Honorary Membership](#section-6-honorary-membership)
+         * [Section 7: Excused Membership](#section-7-excused-membership)
       * [Article V: Officers, Elections, Duties, and Powers](#article-v-officers-elections-duties-and-powers)
          * [Section 1: List of House Offices](#section-1-list-of-house-offices)
             * [Subsection A: List](#subsection-a-list)
@@ -67,13 +66,13 @@
          * [Section 2: Fiscal Year](#section-2-fiscal-year)
          * [Section 3: Undergraduate Debt.](#section-3-undergraduate-debt)
          * [Section 4: Alumni Debt](#section-4-alumni-debt)
-         * [Section 5: Social Dues](#section-5-social-dues)
+         * [Section 5: Chapter Dues](#section-5-social-dues)
          * [Section 6: Fines](#section-6-fines)
-         * [Section 8: Credits](#section-8-credits)
-         * [Section 9: Excess Moneys](#section-9-excess-moneys)
-         * [Section 10: Checks drawn against the Chapter Treasury](#section-10-checks-drawn-against-the-chapter-treasury)
-         * [Section 11: Social Chair 3-3 Exception](#section-11-social-chair-3-3-exception)
-         * [Section 12: Judicial Board Appeals](#section-12-judicial-board-appeals)
+         * [Section 7: Credits](#section-7-credits)
+         * [Section 8: Excess Moneys](#section-8-excess-moneys)
+         * [Section 9: Checks drawn against the Chapter Treasury](#section-9-checks-drawn-against-the-chapter-treasury)
+         * [Section 10: Social Chair 3-3 Exception](#section-10-social-chair-3-3-exception)
+         * [Section 11: Judicial Board Appeals](#section-11-judicial-board-appeals)
       * [Article VIII: Suspension and Expulsion](#article-viii-suspension-and-expulsion)
       * [Article IX: Housing](#article-ix-housing)
          * [Section 1: Rules](#section-1-rules)
@@ -107,16 +106,16 @@
 
 # BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 
-December 16, 2018
+31 March, 2019
 
 ### Officers at Time of Ratification
 
 - Archon: Ian Holland
-- Vice President of Internal Affairs: Sasha Hunter
+- Vice President of Internal Affairs: Emily Spoor
 - Vice President of External Affairs: Tejas Narayan
-- Treasurer: Isabella Colberg
+- Treasurer: Hunter Rouillard
 - House Manager: Brian McGrath
-- Secretary: Andrew Smith
+- Secretary: Auntiewhnor Kpolie
 
 ## Article I: The Bylaws
 
@@ -126,7 +125,7 @@ December 16, 2018
 
 ### Section 2: Adoption
 
-1. These bylaws adopted 14 April, 2013 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted 31 March, 2019 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
@@ -174,7 +173,7 @@ December 16, 2018
 ### Section 2: Attendance
 
 1. Inactive, honorary, and alumni brothers may attend any meetings, but may not vote.
-2. All non-members may be present at a Chapter meeting while it is in session.
+2. No non-members may be present at a Chapter meeting while it is in session.
 3. Quorum: two-thirds (2/3) of the active brotherhood must be present at a Chapter meeting to vote on any business.
 4. Attendance at Chapter meetings and rush functions is mandatory of the active brotherhood.
 5. Attendance shall be excused by a satisfactory excuse submitted to the Archon prior to the meeting.
@@ -190,10 +189,9 @@ December 16, 2018
     1. Pledge
     2. Active
     3. Excused
-    4. De-active
-    5. Inactive
-    6. Alumni
-    7. Honorary.
+    4. Inactive
+    5. Alumni
+    6. Honorary.
 2. Each brother will receive an “EI number,” given in alphabetical and numerical order within each pledge class at Initiation.
 3. Each non-pledge member of the EI Chapter and our Fraternity will be a “brother,” regardless of gender.
 
@@ -208,24 +206,19 @@ December 16, 2018
 ### Section 3: Active Membership
 
 1. An active member has the rights of voting and house use, in addition to the corresponding responsibilities of; holding an office, required attendance of meetings and rush functions, and others expected of him by the active brotherhood.
-2. Candidates must have finished the Fraternity Education Program.
-3. Candidates must fulfill academic requirements outlined in the scholarship policy (Article XII).
+2. Active members must have finished the Fraternity Education Program.
+3. Active members must fulfill academic requirements outlined in the scholarship policy (Article XII).
 4. Member must be a student of RPI.
 5. Initiation of a pledge into the brotherhood shall be determined by a Class C & D vote during the Chapter meeting prior to pre-Initiation Week.
 6. Member must have paid his International dues and Chapter social dues.
 
-### Section 4: Deactive Membership
-
-1. When a member is expelled (see Article VIII), he or she falls under this category and loses all rights and privileges of the Chapter.
-2. A deactive member can petition the Judicial Committee to regain active membership into the brotherhood, who, upon approval, will bring the issue to the brotherhood, where it is then subject to a Class C & D vote.
-
-### Section 5: Inactive Membership
+### Section 4: Inactive Membership
 
 1. An inactive member has neither rights nor the responsibilities of an active member.
-2. An inactive member must be student of RPI, a member of the EI chapter.
+2. An inactive member must be a student of RPI, a member of the EI chapter.
 3. A member may become inactive by a Class J vote. Change from inactive status to active status may only be granted by a Class C vote.
 
-### Section 6: Alumni Membership
+### Section 5: Alumni Membership
 
 1. An Alumni member has neither rights nor the responsibilities of an active member.
 2. A member of the EI chapter who falls under the jurisdiction of the alumni council and is not an undergraduate brother is considered an alumnus.
@@ -234,14 +227,14 @@ December 16, 2018
 5. An undergraduate member may become an alumnus/alumna by petitioning the executive council. The executive committee may grant the petition by a Class E vote.
 6. An Alumni member who studies at RPI may return to the status they held upon their initial termination of studies or becoming an alumnus/alumna. An alumni member must simply announce their intentions to return to the status they previous held during a Chapter meeting, and thereby are restored to said status.
 
-### Section 7: Honorary Membership
+### Section 6: Honorary Membership
 
 1. At the brotherhood’s approval, anyone may become an honorary brother.
 2. Proposal and vote for honorary membership shall follow the same procedure as that for giving out a bid (See Article IV, Section 2, 3-4)
 3. Honorary Brother proposals are voted on and executed in the same manner as pledge initiation (See Article IV, Section 3, 5).
 4. Honorary Members are not required to pay dues.
 
-### Section 8: Excused Membership
+### Section 7: Excused Membership
 
 1. An excused member is a member in good faith who has opted to become excused and therefore has no responsibilities and limited rights of an active member.
 2. Members who participate in the RPI co-op program, or who take a temporary leave from RPI, are considered excused.
@@ -350,7 +343,7 @@ December 16, 2018
 6. Is responsible for obtaining pledge pins and brother badges.
 7. Shall organize the Initiation ceremonies.
 8. Shall be responsible for Alcohol Policy representation.
-9. Is responsible for keeping order at Chapter meetings.
+9. Shall be responsible for keeping order at Chapter meetings.
 10. By request of the President, Shall remove an individual deemed to be disorderly at a Chapter meeting
 
 #### Vice-President of External Affairs
@@ -608,7 +601,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 1. Upon becoming an alumnus of the house, there will be a three month period during which no payment must be made.  After that period a payment of $40 or 4% of your outstanding debt, whichever is greater, must be made on a monthly basis.
 2. For every month in a fiscal year in which there are three or more outstanding payments, a charge of $4 or 4% of the payment, whichever is greater, shall be levied for each outstanding payment.  The Treasurer must obtain a written contract detailing the payment plan as quickly as possible.
 3. Bills to alumni that owe the house money will be sent out on a quarterly basis.
-4. An alumnus that is still a full time student falls under the payment rules that apply to undergraduates.
+4. Alumni that are still full time students fall under the payment rules that apply to undergraduates.
 
 ### Section 5: Social Dues
 
@@ -621,36 +614,37 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 3. Fines concerning damage to the house shall be levied by the House Manager, with agreement from the Archon.
 4. Fines shall be collected by the Treasurer and used to cover semesterly budget short-falls.
 
-### Section 8: Credits
+### Section 7: Credits
 
 1. Credits may be awarded at the discretion of the House Manager upon the completion of work beyond that required by the normal duties of a brother.
 2. Credits may be applied against a brother’s outstanding debt, but are nonrefundable.
 
-### Section 9: Excess Moneys
+### Section 8: Excess Moneys
 
 1. Excess moneys at the end of the fiscal year are nonrefundable unless approved by a Class C vote.
 2. Moneys remaining after the end of the fiscal year shall be put in short term accounts.
 
-### Section 10: Checks drawn against the Chapter Treasury
+### Section 9: Checks drawn against the Chapter Treasury
 
 1. All checks to be drawn against Chapter funds must be signed either by the Treasurer or Archon.
 2. All checks to be drawn against Chapter funds must be signed by at least two of the following officers: Archon, Vice President, Treasurer, where one of the signatures must be that of the Archon or Treasurer, if the amount of the check is equal to or greater than one hundred dollars ($100), unless said check will be used to cover outstanding debt incurred by the chapter in the normal course of operations, e.g. the power bill.
 3. Any check to be drawn against Chapter funds issued to the Treasurer or to the Archon must be signed by any two of the following officers: Archon, Vice President, Treasurer, regardless of amount.
 
-### Section 11: Social Chair 3-3 Exception
+### Section 19: Social Chair 3-3 Exception
 
 1. The Social Chairman shall not have to pay his share of the Chapter’s “3-3” cost which he organizes and oversees.
 
-### Section 12: Judicial Board Appeals
+### Section 11: Judicial Board Appeals
 
 1. Any brother may appeal to the Judicial Board for exemption from these rules.  If granted, no fine(s) will be levied.
 
 ## Article VIII: Suspension and Expulsion
 
 1. Any member who has been reported as acting contrary to the interests of the Chapter shall, after due notice, be required to go before the Judicial Committee and answer to the charges against them. The Judicial Committee may impose a fine on the member if deemed necessary.
-2. Any member, after due notice, may be expelled by a Class C vote. That member shall be considered to have a deactive status (see Article IV, section 4).
-3. Reactivation of a deactive brother may only be granted by the procedure outlined in Article IV, section 4.
-4. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a majority vote of the Judicial Committee. This expulsion is subject to review at the next Chapter meeting at which the expulsion may be overturned by a Class C vote.
+2. Any member may be suspended or expelled by a Class C vote after two weeks of consideration by the brotherhood. A suspended or expelled member loses all rights and privileges of membership in the chapter.
+3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a majority vote of the Judicial Committee. This expulsion is subject to review at the next Chapter meeting at which the expulsion may be overturned by a Class C vote.
+4. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class C and D vote.
+5. A person who has been expelled must petition the Judicial Committee for the return of active membership. Following Judicial Committee’s approval they can regain active membership following a Class C and D vote.
 
 ## Article IX: Housing
 
@@ -712,7 +706,7 @@ The Chapter shall abide by the following policies and guidelines:
 2. At the Beginning of a semester the risk manager must designate a sober brother for every Friday and Saturday night, as well as any night with a scheduled event that may result in drinking such as parties, gatherings, or any other night the brotherhood decides that it is necessary. 
 3. Every eligible brother must fulfill this role, such that it is evenly distributed among the brotherhood. Any brother unwilling to fulfill this role will appear before the J-board at the request of the risk manager, with a maximum financial penalty of $50.
 4. Any eligible brother who does not fulfill their duties as the sober brother will appear before the J-board at the request of the risk manager, with a maximum financial penalty of $100.
-5. The list of eligible sober brothers can be determined by the list of all undergraduate brothers minus any brother under the age of 18 and any brother who does not have a valid drivers license.
+5. The list of eligible sober brothers can be determined by the list of all undergraduate brothers minus any brother under the age of 18 and any brother who does not have a valid driver's license.
 
 ### Section 5: Sober Brother Responsibilities
 1. While the sober brother is on duty, they have the authority to limit the amount of alcohol someone is consuming and end the event. The sober brother can end the event if it is after 2 am and must end the event if there is any reason to believe the event has become unsafe. Unsafe includes but is not limited to the likelihood of physical violence or a likelihood of individuals undertaking exceedingly dangerous pursuits.
