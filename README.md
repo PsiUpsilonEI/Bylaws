@@ -125,7 +125,7 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted 31 March, 2019 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted 29 September, 2019 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
