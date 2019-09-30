@@ -148,15 +148,15 @@
 
 1. Only active brothers are allowed to vote
 
-### Section 3: Vote classes
+### Section 2: Vote classes
 
-1. Class A - Majority of the active brotherhood.
-2. Class B - Two-thirds of the active brotherhood.
-3. Class C - Nine-tenths of the active brotherhood.
-4. Class D - No more than five-percent negative votes of the active brotherhood.
-5. Class E - Majority of the E-board (at least 4 out of 6 vote yes).
-6. Class J – Majority of J-Board (at least 3 out of 5 vote yes).
-7. Class XJ – Two-Thirds majority of non-J-Board members.
+1. Class A - At least half of voting pool in favor.
+2. Class B - At least two-thirds of voting pool in favor,
+3. Class C - At least ninety percent of voting pool in favor.
+4. Class D - No more than five percent of voting pool against.
+5. Class E - Majority of the executive board member. 
+6. Class J - At least three members of the Judicial Board.
+7. Class XJ - Two-thirds majority of non-Judicial Board members.
 
 ### Section 3: Voting on motions
 
