@@ -1,3 +1,4 @@
+## TABLE OF CONTENTS
    * [BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY](#bylaws-of-the-epsilon-iota-chapter-of-the-psi-upsilon-fraternity)
       * [Officers at Time of Ratification](#officers-at-time-of-ratification)
       * [Article I: The Bylaws](#article-i-the-bylaws)
