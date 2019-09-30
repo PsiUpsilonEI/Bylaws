@@ -106,7 +106,7 @@
 
 # BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 
-31 March, 2019
+29 September, 2019
 
 ### Officers at Time of Ratification
 
