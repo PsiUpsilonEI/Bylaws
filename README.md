@@ -45,7 +45,7 @@
             * [Steward](#steward)
             * [Scholarship Chairman](#scholarship-chairman)
             * [Philanthropy Chairman](#philanthropy-chairman)
-            * [Librarian/Historian](#librarianhistorian)
+            * [Historian](#historian)
             * [Alumni/Co-op Secretary](#alumnico-op-secretary)
             * [Fraternity Educator](#fraternity-educator)
             * [Risk Manager](#risk-manager)
@@ -54,6 +54,8 @@
             * [Lodge Critic](#lodge-critic)
             * [Songleader](#songleader)
             * [Network Administrator](#network-administrator)
+            * [Faculty Correspondent](#faculty-correspondent)
+            * [Member Wellness Chairman](#member-wellness-chair)
       * [Article VI: Committees](#article-vi-committees)
          * [Section 1: Executive Committee](#section-1-executive-committee)
          * [Section 2: Judicial Committee](#section-2-judicial-committee)
@@ -63,7 +65,8 @@
          * [Section 6: House Committee](#section-6-house-committee)
          * [Section 7: Pledge Education Committee](#section-7-pledge-education-committee)
          * [Section 8: External Affairs Committee](#section-8-external-affairs-committee)
-         * [Section 9 Ad-hoc Committees](#section-9-ad-hoc-committees)
+         * [Section 9: Member Wellness Committee](#section-9-external-affairs-committee)
+         * [Section 10: Ad-hoc Committees](#section-10-ad-hoc-committees)
       * [Article VII: Finances](#article-vii-finances)
          * [Section 1: Room and Board](#section-1-room-and-board)
          * [Section 2: Fiscal Year](#section-2-fiscal-year)
@@ -269,10 +272,13 @@
 3. Minor House Offices
     1. Scholarship Chairman
     2. Philanthropy Chairman
-    3. Librarian/Historian
+    3. Historian
     4. Alumni/Co-op Secretary
     5. Fraternity Educator
     6. Risk Manager
+    8. Network Administrator
+    7. Faculty Correspondent
+    9. Member Wellness Chairman
 3. Appointed House Offices
     1. Summer House Manager
     2. Summer Treasurer
@@ -459,36 +465,13 @@
 2. Is in charge of public service events and philanthropic donations.
 3. Shall submit a written report to the Chapter at the end of his term concerning the future of the Chapter.
 
-#### Librarian/Historian
+#### Historian
 
-1. Shall be in charge of storing Chapter minutes and correspondence from the previous years.
-2. Shall keep all photographs and scrap albums up to date.
-3. Shall be in charge of arranging for taking, selling, and framing of Fraternity pictures and Chapter composite.
-4. Shall be in charge of keeping pledge pins, manuals, and songbooks.
-5. Is in charge of all printing, such as invitations and Christmas cards.
-6. Shall maintain a Chapter library.
-7. Shall keep a historical record of the Chapter.
-8. Shall be responsible for ordering magazine subscriptions, newspapers, etc.
-9. Shall be responsible for storing Judicial Board opinions and write-ups.
-10. Shall be responsible for the organization of files in the Psi Upsilon Brother Google Drive (or technological equivalent). Librarian/Historian will ensure that only active brothers have uploading privileges, and will ensure that active brothers are aware of the drive and are contributing when appropriate. 
-11. Psi Upsilon Brother Google Drive is an online document library which must include (but is not limited to):
-    1. House Manager documents, such inspection reports, fire drill reports, appliance receipts, etc. 
-    2. Rush documents, such as designs for bids, past rush calendars/current rush calendar, rush shirt designs, and other   related rush documents (receipts, attendance lists etc)
-    3. Copy of the budget, copy of the leases, and an empty debt contract form
-    4. Copy of the PUPPY’97 policy, and other risk policies
-    5. Meeting minutes
-    6. Scholarship backwork
-    7. Photocopies of important house documents
-    8. End of year report for each position 
-    9. Current and past Five Star Reports
-    10. Given contact information and shirt size, a list of house positions, and other relevant information
-    11. Template for sign out sheet
-* Items that shall not be included:
-    1. Information pertaining to the chapter’s secrets
-    2. Personal debt contracts
-    3. Grade information that identifies any individual
-    4. Any documents that contain private/personal information (such as RINs, birth dates, addresses, health related information, etc) without the consent of the individual 
-
+1. Shall maintain all chapter photographs and albums.
+2. Shall provide the alumni Archivist with photographs from the chapter for archival.
+3. Shall be responsible for the acquisition of new composites.
+4. Shall responsible for providing continual member education through presentation given once monthly on the history and values of Psi Upsilon and the Epsilon Iota chapter.
+5. Shall maintain a written history of major chapter events.
 
 #### Alumni/Co-op Secretary
 
@@ -534,9 +517,44 @@
 
 #### Network Administrator
 
-1. Shall be responsible for the general upkeep and maintenance of computer networks, electronics, computer accounts, website, and other related business in the chapter house.
-2. Shall maintain the chapter mailing lists.
-3. In the absence of the Network Administrator, the Secretary or house manager shall adopt these responsibilities.
+1. Shall be responsible for the general upkeep and maintenance of chapter computer networks, electronics, and other related materials.
+2. Shall maintain the chapter’s digital accounts, and ensure they are accessible by appropriate officers.
+3. Shall maintain the chapter website.
+4. Shall maintain the chapter mailing lists.
+5. Shall maintain and moderate the chapters primary method of internal communication.
+6. Shall maintain and moderate the chapter’s social media accounts.
+7. Shall maintain the chapter’s electronic document storage.
+  * Items that shall be included:
+    1. The public documents and work of all officers, including reports and transition documents
+    2. Copies of all standing and recently expired policies
+    3. Minutes for public meetings
+    4. Scholarship backwork
+    5. The chapter’s bylaws
+    6. Current and past five star reports
+    7. Contact information for brothers and relevant external parties
+    8. Copies of document templates
+* Items that shall not be included:
+    1. Information pertaining to the chapter’s secrets
+    2. Personal debt contracts
+    3. Grade information that identifies any individual
+    4. Any documents that contain private/personal information (such as RINs, birth dates, addresses, health related information, etc) without the consent of the individual 
+    5. Documents that could be used to deduce personal information not present in the records
+
+#### Faculty Correspondent
+
+1. Shall ensure our faculty advisor is informed about relevant activities.
+2. Shall be responsible for all communications with the faculty of Rensselaer Polytechnic Institute.
+3. Shall run events which develop positive relations with the faculty.
+4. Shall submit a written report at the end of the semester with recommendations for the future.
+5. Shall be a member of external relations committee
+
+#### Member Wellness Chairman
+
+1. Shall maintain a collection of mental health resources and guides for accessing them.
+2. Shall be able to teach brothers how to manage, or help others manage, a mental health crisis.
+3. Shall organize and run Dead men’s tales.
+4. Shall keep all information told to them in confidence a secret so long as this information does not indicate an immediate threat to the chapter or any brother.
+5. Shall not be required as a duty of this office to personally manage the acute mental health crisis of a brother.
 
 ## Article VI: Committees
 
@@ -550,17 +568,19 @@
 
 ### Section 2: Judicial Committee
 
-1. Shall be chaired by the Chief Representative.
-2. Shall elect the Chief Representative from amongst themselves, by a class J vote.
-3. Shall act as judicial board for disciplinary action as deemed necessary.
-4. Has the power to levy fines and disciplinary action as deemed necessary.
-5. Shall be the final interpreters of the bylaws.
-6. An appeal to the J-Board must be submitted by an active brother in writing
-7. Any appeal made to the J-Board may be dismissed without action if a unanimous Class J vote is made to dismiss the appeal.
-8. Shall submit an official decision in writing on all matters handled by the J-Board.
-9. Any decision made by the J-Board can be appealed, requiring a motion and two seconds, to the rest of the house. The appeal is successful if a Class XJ vote yields a two-thirds majority to overrule it. In this case, the decision is overturned.
-10. Any Judicial Board representative with vested interest in a Judicial Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the Judicial Board vote and decision.
-11. If the class J vote made to a resolve a Judicial Board decision is tied, the original result of the case is upheld. If not such result exists, the decision is left to the Archon.
+1. Shall represent the interests of the class year who elected them.
+2. Shall be chaired by the Chief Representative.
+3. Shall elect the Chief Representative from amongst themselves, by a class J vote.
+4. Shall act as judicial board for disciplinary action as deemed necessary.
+5. Has the power to levy fines and disciplinary action as deemed necessary.
+6. Shall be the final interpreters of the bylaws.
+7. Shall store case results and opinions on the chapter’s electronic storage system
+8. An appeal to the J-Board must be submitted by an active brother in writing
+9. Any appeal made to the J-Board may be dismissed without action if a unanimous Class J vote is made to dismiss the appeal.
+10. Shall submit an official decision in writing on all matters handled by the J-Board.
+11. Any decision made by the J-Board can be appealed, requiring a motion and two seconds, to the rest of the house. The appeal is successful if a Class XJ vote yields a two-thirds majority to overrule it. In this case, the decision is overturned.
+12. Any Judicial Board representative with vested interest in a Judicial Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the Judicial Board vote and decision.
+13. If the class J vote made to a resolve a Judicial Board decision is tied, the original result of the case is upheld. If not such result exists, the decision is left to the Archon.
 
 ### Section 3: Community Relations Committee
 
@@ -594,7 +614,7 @@
 ### Section 8: External Affairs Committee
 
 1. Shall be chaired by the Vice-President of External Affairs.
-2. Members shall include the Rush Chairman, the Social Chairman, the Philanthropy Chairman, and the Alumni Secretary.
+2. Members shall include the Rush Chairman, the Social Chairman, the Philanthropy Chairman, the Alumni Secretary, and the Faculty Correspondent.
 3. Shall meet at least once every two (2) weeks.
 4. Responsible for compiling information from the Chapter to be used for the Chapter's Five Star submission.
 5. Shall ensure that the Philanthropy Chairman has the resources needed to conduct a charitable event involving external organizations.
@@ -604,7 +624,17 @@
 9. Shall ensure that all committee members are aware of important dates and deadlines from the IFC.
 10. Shall ensure that the planning and organization of events is coordinated between the Rush and Social Chairmen.
 
-### Section 9 Ad-hoc Committees
+### Section 9: Member Wellness Committee
+
+1. Shall be chaired by the member wellness chair
+2. Shall have as permanent members
+    1. The Vice-president of Internal Affairs
+    2. The Scholarship Chairman
+3. Shall be a closed meeting
+4. Shall work to identify worrying trends in members and determining methods of providing aid.
+5. Shall meet at the digression of the chair, with bi-weekly meeting recommended.
+
+### Section 10 Ad-hoc Committees
 
 1. Shall be chaired by the creator or an appointee of the Archon.
 2. Shall meet as directed by the chair or Archon, until the committee is no longer required.
