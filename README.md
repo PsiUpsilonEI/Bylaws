@@ -6,6 +6,7 @@
          * [Section 2: Adoption](#section-2-adoption)
          * [Section 3: Enactment](#section-3-enactment)
          * [Section 4: Amendments](#section-4-amendments)
+         * [Section 5: Chapter Policy](#section-5-chapter-policy)
       * [Article II: Voting](#article-ii-voting)
          * [Section 1: Franchisement](#section-1-franchisement)
          * [Section 2: Vote classes](#section-2-vote-classes)
@@ -128,7 +129,7 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted 29 September, 2019 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted 3 November, 2019 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
@@ -143,6 +144,14 @@
 1. All motions of amendment must be in writing and seconded by two active members.
 2. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
 3. The motion must be ratified by a Class C vote.
+
+### Section 5: Chapter Policy
+
+1. Chapter policies modify the bylaws temporarily and will cease to be in effect at the end of the academic year of their passing.
+2. After a chapter policy expires, it cannot become a chapter policy again. It must either become an amendment by a Class C vote or not be in effect ever again.
+3. All motions of chapter policy must be in writing and seconded by two active members.
+4. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
+5. The motion must be ratified by a Class B and Class D vote.
 
 ## Article II: Voting
 
