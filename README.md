@@ -155,7 +155,7 @@
 1. Class A - At least half of voting pool in favor.
 2. Class B - At least two-thirds of voting pool in favor,
 3. Class C - At least ninety percent of voting pool in favor.
-4. Class D - No more than five percent of voting pool against.
+4. Class D - Can be vetoed by any active member.
 5. Class E - Majority of the executive board member. 
 6. Class J - At least three members of the Judicial Board.
 7. Class XJ - Two-thirds majority of non-Judicial Board members.
