@@ -149,7 +149,7 @@
 
 1. Chapter policies will cease to be in effect at the end of the academic year of their passing.
 2. After a chapter policy expires, it cannot become a chapter policy again. It must either become an amendment by a Class C vote or not be in effect ever again.
-3. All motions of chapter policy must be in writing and seconded by an active members.
+3. All motions of chapter policy must be in writing and seconded by an active member.
 4. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
 5. The motion must be ratified by a Class B vote.
 
