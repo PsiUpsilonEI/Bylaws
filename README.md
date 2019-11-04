@@ -149,7 +149,7 @@
 
 1. Chapter policies will cease to be in effect one year after their passing.
 2. In the event of a conflict between chapter policy and bylaws, the bylaws take precedent.
-3. After a chapter policy expires, it cannot become a chapter policy again for the next three years. It must either become an amendment by a Class C vote or not be in effect.
+3. After a chapter policy expires, it cannot become a chapter policy again for the next three years without revision. It must either become an amendment by a Class C vote, be revised and made chapter policy again, or not be in effect.
 4. All motions of chapter policy must be in writing and seconded by an active member.
 5. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
 6. The motion must be ratified by a Class B vote.
