@@ -136,7 +136,7 @@
 1. Ratification of the bylaws shall be by a Class C vote.  Bylaws may be changed by amendment or by bylaw convention.
 2. In case of dispute, the J-Board shall interpret the bylaws.
 3. A willful disobedience of these bylaws is grounds for fine or disciplinary action at the discretion of the Executive Committee.
-4. All Chapter policies that are not amendments are only valid until the end of the academic year.
+4. All Chapter policies that are not amendments are only valid for one year.
 5. A bylaw may be suspended by a Class C vote, for a time period (specified in the motion) no greater than one (1) year.
 
 ### Section 4: Amendments
@@ -147,7 +147,7 @@
 
 ### Section 5: Chapter Policy
 
-1. Chapter policies will cease to be in effect at the end of the academic year of their passing.
+1. Chapter policies will cease to be in effect one year after their passing.
 2. After a chapter policy expires, it cannot become a chapter policy again. It must either become an amendment by a Class C vote or not be in effect ever again.
 3. All motions of chapter policy must be in writing and seconded by an active member.
 4. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
