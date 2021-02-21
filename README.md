@@ -301,12 +301,15 @@
 
 1. The candidate who receives the most votes under an approval vote shall be elected.
 2. Election days shall be determined by the Archon. Election of the Major Offices must be in November or December.
-3. Each officer will serve for one year or until the next election.
-4. New officers take office at the Chapter meeting after they are elected or at the first Chapter meeting of the next semester; to be determined by the Archon.
-5. Nominations must be made at a meeting one (1) week prior to elections.  The Secretary shall post a list of nominees for the week previous to the elections.
-6. The Secretary shall post the names of the successful candidates for at least one week.
-7. A brother may not hold more than one major office, unless the number of major offices is greater than the numerical size of the Chapter.
-8. Only active brothers are allowed to hold an office. Excused members are allowed to run for office provided that their return to active status will be before their term is to begin.
+3. Election shall occur at least two weeks before the end of the Spring semester. 
+    1. Elections for Second Angelos and Social Chair will instead occur at least two weeks before the end of the fall semester
+    2. Elections for the judicial board shall occur within the first three weeks of each semester.
+4. Each officer will serve for one year or until the next election.
+5. New officers take office at the Chapter meeting after they are elected or at the first Chapter meeting of the next semester; to be determined by the Archon.
+6. Nominations must be made at a meeting one (1) week prior to elections.  The Secretary shall post a list of nominees for the week previous to the elections.
+7. The Secretary shall post the names of the successful candidates for at least one week.
+8. A brother may not hold more than one major office, unless the number of major offices is greater than the numerical size of the Chapter.
+9. Only active brothers are allowed to hold an office. Excused members are allowed to run for office provided that their return to active status will be before their term is to begin.
 
 #### Subsection B: Voting in Elections
 
@@ -787,43 +790,56 @@ The Chapter shall abide by the following policies and guidelines:
 ## Article XII: Psi Upsilon Scholarship Policy
 
 ### Section 1: Statement
+1. As our chapter strives for academic excellence, each brother should endeavor to attain the highest possible academic standing. The chapter should always strive to go above and beyond other fraternal organizations, and each brother should be committed to supporting one another academically.
 
-1. As our chapter strives for academic excellence, each brother should endeavor to attain the highest possible GPA. The chapter’s goal should be to have a cumulative average above the all-Greek average. The brothers of this fraternity should be committed to supporting each other in their academic efforts.
+### Section 2: Disclosed Information
+1. It is required that brothers inform the scholarship chair and the Archon of their current course schedule.
+2. It is required that brothers inform the scholarship chair of courses or topics they feel confident in acting as a tutor in.
+3. It is requested that brothers inform scholarship chair and the Archon of their GPA or sign a release form allowing Rensselaer Polytechnic Institute to do so.
+4. It is requested that brothers, particularly those in probationary standing sign the release form.
 
-### Section 2: Scholarship Chair
+### Section 3: Standing
+1. A member with a cumulative GPA in excess of 3.5 will be considered to be in Exceptional academic standing.
+2. A member with a cumulative GPA between 2.7 and 3.5 will be in good academic standing.
+3. A member with a cumulative GPA between 2.5 and 2.7, or whose most recent semester indicates substantial decline (Scholarship Chair's discretion), will be on cautionary academic standing.
+4. A member with a cumulative GPA below 2.5, or whose most recent two semesters show a trend of substantial decline (Scholarship Chair's discretion), will be on probationary academic standing.
+5. If a brother could be classified into multiple standings the Scholarship chair shall resolve the conflict.
 
-1. Brothers and pledges should submit course schedules to the Scholarship Chair.
+### Section 4: Scholarship Plans
+1. Members on good academic standing or better may schedule a meeting with the scholarship chair to create an academic plan if they feel it would be beneficial.
+2. Members on cautionary academic standing must meet with the scholarship chair to determine if an academic plan is necessary, and create such a plan if it is deemed necessary by the scholarship chair.
+3. Members with probationary academic standing must meet with the scholarship chair and create a scholarship plan.
+4. Scholarship plans must include
+    1. Check-ins every other week with the scholarship chair at a minimum.
+5. Scholarship plans may include
+    1. Mandated study hours.
+    2. Tutoring by other willing brothers.
+    3. Social prohibition.
+6. To better enforce scholarship plans the scholarship chair will have the right to
+    1. Retroactively excuse a brother from a required event.
+    2. Excuse the relevant brother from required responsibilities.
+    3. Prohibit the relevant brother from attending social events.
+    4. Prohibit the relevant brother from consuming alcohol in the chapter house.
+    5. Send an obstinate brother before the judicial board.
 
-### Section 3: GPA Requirements
+### Section 4: GPA Requirements
+1. All members will be required to maintain a cumulative GPA above 2.0 and be enrolled in at least 12 credit hours, unless fewer than 12 credits are required to graduate.
+2. Major office must be in good academic standing or above. Any major officer who fall to a lower standing will be subject to a review by the member wellness committee for continued office.
+3. Minor officers or judicial board representatives must be in cautionary academic standing or above. Any such person who falls to probationary standing will be subject to a review by the member wellness committee for continued office.
+4. These requirements will be suspended in the event there are not enough eligible members to fill necessary positions.
 
-1. Each member of the Chapter shall be required to maintain a cumulative GPA of a 2.25 or higher, be enrolled for 12 credit hours or more – unless fewer credit hours are required for graduation – and remain in good standing with the Chapter and Rensselaer Polytechnic Institute.
-2. All officers of the Executive Committee must retain above a 2.50 GPA per semester. Any officer who falls below this threshold is subject to review for continued office.
-3. GPA will be calculated according to Rensselaer Polytechnic Institute’s standards, will be based on the biannual grade report given to the Archon by RPI, and will be shared only with the Archon and the Scholarship Chair unless an Executive Committee review is required.
+### Section 5: Rights of brothers
+1. All information regarding a member’s GPA Is to kept strictly confidential between the brother, the scholarship chair and the Archon. Breaches of this confidentiality will be subject to a judicial board review.
+2. Any brother who believes the scholarship chair is abusing their powers or has created an unreasonable academic plan may appeal to the Archon. The Archon may override the scholarship chair or, with the consent of the brother in question, bring the matter before the judicial board.
 
-### Section 4: Academic standing
-
-1. Each member of the Chapter will have their academic standing assigned by the Scholarship Chair according to the following guidelines:
-  1. A member with a GPA in excess of 3.50 will be considered to be on Exceptional academic standing
-  2. A member with a GPA between 2.50 - 3.49 will be considered to be on Good academic standing
-  3. A member with a GPA between 2.20 – 2.49 will be considered to be on Cautionary academic standing
-  4. A member with a GPA below a 2.20 will be considered to be on Probationary academic standing.
-2. A member on Cautionary academic standing will be required to submit a plan of study to the Scholarship Chair, or talk to their advisor or a trusted professor. They shall be required to go to ALAC and receive study tips. The member will be required to have the Chair, advisor, professor, or ALAC sign off that they have met. Such a member will remain in Cautionary standing until their cumulative GPA is raised above a 2.49.
-3. A member on Probationary academic standing will be required to meet with the Scholarship Chairman, academic advisor, or ALAC in order to determine an appropriate course of action, which shall be proven by having the Chair or advisor sign a statement*. Such member will remain on probation until their cumulative GPA is raised to above a 2.20 within two academic semesters, and will be subject to disciplinary action recommended by the Scholarship Chair to and determined by the Executive Committee. Further disciplinary action shall be determined by the Executive Committee if such member does not raise their cumulative GPA to at least 2.20 within two academic semesters of being placed on probation. The member will also perform at least 4 hours of logged study hours per week; the exact number of which to be recommended by the Scholarship Chair or advisor to and decided by the Executive Committee.
-
-### Section 5: Disciplinary Action
-
+### Section 6: Disciplinary Action
 1. A member placed on Academic Probation by the University may be subject to disciplinary action recommended by the Scholarship Chair or advisor to and determined by the Executive Committee, including:
   1. Suspension of social privileges.Loss of social privileges will be defined as disallowed attendance at Psi Upsilon registered parties (except 3-3 and Founder’s), and disallowed alcohol consumption in the house.
   2. Removal from Committee Chairmanship.
   3. Vacating elected office and prohibition from nomination for elected office.
 2. If a member fails to complete mandated study hours for a week without a valid excuse submitted to the Scholarship Chair they will be subject to disciplinary action recommended by the Scholarship Chair or advisor to and determined by the Executive Committee. If a member consistently fails to meet their mandated study hours their case will be presented to the Executive Committee to determine appropriate disciplinary action.
 
-### Section 6: Rights of Brothers
-
-1. All meetings concerning a member’s grades must be kept private, and the information disclosed kept confidential. Any breach of a member’s trust will be subject to disciplinary action by the Executive Committee.
-
 ### Section 7: Miscellaneous
-
 1. If the chapter has too few brothers to fill positions with the GPA requirement in place, the requirement shall be suspended until sufficient numbers are active.
 2. Pledges should be educated about this policy and what it entails prior to initiating.
 
