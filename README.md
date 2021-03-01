@@ -6,6 +6,7 @@
          * [Section 2: Adoption](#section-2-adoption)
          * [Section 3: Enactment](#section-3-enactment)
          * [Section 4: Amendments](#section-4-amendments)
+         * [Section 5: Chapter Policy](#section-5-chapter-policy)
       * [Article II: Voting](#article-ii-voting)
          * [Section 1: Franchisement](#section-1-franchisement)
          * [Section 2: Vote classes](#section-2-vote-classes)
@@ -128,14 +129,14 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted 29 September, 2019 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted 21 February, 2021 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
 1. Ratification of the bylaws shall be by a Class C vote.  Bylaws may be changed by amendment or by bylaw convention.
 2. In case of dispute, the J-Board shall interpret the bylaws.
 3. A willful disobedience of these bylaws is grounds for fine or disciplinary action at the discretion of the Executive Committee.
-4. All Chapter policies that are not amendments are only valid until the end of the academic year.
+4. All Chapter policies that are not amendments are only valid for one year.
 5. A bylaw may be suspended by a Class C vote, for a time period (specified in the motion) no greater than one (1) year.
 
 ### Section 4: Amendments
@@ -143,6 +144,15 @@
 1. All motions of amendment must be in writing and seconded by two active members.
 2. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
 3. The motion must be ratified by a Class C vote.
+
+### Section 5: Chapter Policy
+
+1. Chapter policies will cease to be in effect one year after their passing.
+2. In the event of a conflict between chapter policy and bylaws, the bylaws take precedent.
+3. After a chapter policy expires, it cannot become a chapter policy again for the next three years without revision. It must either become an amendment by a Class C vote, be revised and made chapter policy again, or not be in effect.
+4. All motions of chapter policy must be in writing and seconded by an active member.
+5. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
+6. The motion must be ratified by a Class B vote.
 
 ## Article II: Voting
 
