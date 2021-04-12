@@ -53,7 +53,7 @@
             * [Summer House Manager](#summer-house-manager)
             * [Summer Treasurer](#summer-treasurer)
             * [Songleader](#songleader)
-            * [Network Administrator](#network-administrator)
+            * [Great Porn Lord in the Sky](#great-porn-lord-in-the-sky)
             * [Faculty Correspondent](#faculty-correspondent)
             * [Member Wellness Chairman](#member-wellness-chair)
       * [Article VI: Committees](#article-vi-committees)
@@ -114,12 +114,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Ian Holland
-- Vice President of Internal Affairs: Emily Spoor
-- Vice President of External Affairs: Tejas Narayan
-- Treasurer: Hunter Rouillard
-- House Manager: Brian McGrath
-- Secretary: Auntiewhnor Kpolie
+- Archon: Evan Spoor
+- Vice President of Internal Affairs: Jeremy Young
+- Vice President of External Affairs: Brass Perkins
+- Treasurer: Christina van Hal
+- House Manager: Alyssa Beard
+- Secretary: Emma Cohen
 
 ## Article I: The Bylaws
 
@@ -129,7 +129,7 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted 21 February, 2021 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted 25 April, 2021 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
@@ -285,14 +285,14 @@
     4. Alumni/Co-op Secretary
     5. Fraternity Educator
     6. Risk Manager
-    8. Network Administrator
+    8. Great Porn Lord in the Sky
     7. Faculty Correspondent
     9. Member Wellness Chairman
 3. Appointed House Offices
     1. Summer House Manager
     2. Summer Treasurer
     3. Songleader
-    4. Network Administrator
+    4. Great Porn Lord in the Sky
 4. Judicial Committee
     1. Chief Representative
     2. Senior Representative
@@ -525,7 +525,7 @@
 
 1. Shall be responsible for the general upkeep of materials and education of Songs of the Psi Upsilon Fraternity to the chapter.
 
-#### Network Administrator
+#### Great Porn Lord in the Sky
 
 1. Shall be responsible for the general upkeep and maintenance of chapter computer networks, electronics, and other related materials.
 2. Shall maintain the chapter’s digital accounts, and ensure they are accessible by appropriate officers.
