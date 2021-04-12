@@ -114,12 +114,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Ian Holland
-- Vice President of Internal Affairs: Emily Spoor
-- Vice President of External Affairs: Tejas Narayan
-- Treasurer: Hunter Rouillard
-- House Manager: Brian McGrath
-- Secretary: Auntiewhnor Kpolie
+- Archon: Evan Spoor
+- Vice President of Internal Affairs: Jeremy Young
+- Vice President of External Affairs: Brass Perkins
+- Treasurer: Christina van Hal
+- House Manager: Alyssa Beard
+- Secretary: Emma Cohen
 
 ## Article I: The Bylaws
 
