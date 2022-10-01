@@ -46,7 +46,7 @@
             * [Steward](#steward)
             * [Scholarship Chairman](#scholarship-chairman)
             * [Philanthropy Chairman](#philanthropy-chairman)
-            * [Historian](#historian)
+            * [Archivist](#archivist)
             * [Alumni/Co-op Secretary](#alumnico-op-secretary)
             * [Fraternity Educator](#fraternity-educator)
             * [Risk Manager](#risk-manager)
@@ -281,7 +281,7 @@
 3. Minor House Offices
     1. Scholarship Chairman
     2. Philanthropy Chairman
-    3. Historian
+    3. Archivist
     4. Alumni/Co-op Secretary
     5. Fraternity Educator
     6. Risk Manager
