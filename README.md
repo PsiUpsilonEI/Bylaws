@@ -46,7 +46,7 @@
             * [Steward](#steward)
             * [Scholarship Chairman](#scholarship-chairman)
             * [Philanthropy Chairman](#philanthropy-chairman)
-            * [Historian](#historian)
+            * [Archivist](#archivist)
             * [Alumni/Co-op Secretary](#alumnico-op-secretary)
             * [Fraternity Educator](#fraternity-educator)
             * [Risk Manager](#risk-manager)
@@ -114,12 +114,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Evan Spoor
-- Vice President of Internal Affairs: Jeremy Young
-- Vice President of External Affairs: Brass Perkins
-- Treasurer: Christina van Hal
-- House Manager: Alyssa Beard
-- Secretary: Emma Cohen
+- Archon: Zachary Niles Peretz
+- Vice President of Internal Affairs: Carsen Clark
+- Vice President of External Affairs: Kai Surlis
+- Treasurer: Camille Brent
+- House Manager: Rhys Bollerman
+- Secretary: Connor Rudnick
 
 ## Article I: The Bylaws
 
@@ -129,7 +129,7 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted 21 February, 2021 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted November 18, 2022 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
@@ -281,7 +281,7 @@
 3. Minor House Offices
     1. Scholarship Chairman
     2. Philanthropy Chairman
-    3. Historian
+    3. Archivist
     4. Alumni/Co-op Secretary
     5. Fraternity Educator
     6. Risk Manager
@@ -471,13 +471,14 @@
 1. Shall be responsible for the chapter’s public service events and philanthropic donations
 2. Shall submit a written report to the Chapter at the end of their term concerning the future of the Chapter.
 
-#### Historian
+#### Archivist
 
 1. Shall maintain all chapter photographs and albums.
 2. Shall provide the alumni Archivist with photographs from the chapter for archival.
 3. Shall be responsible for the acquisition of new composites.
-4. Shall responsible for providing continual member education through presentation given once monthly on the history and values of Psi Upsilon and the Epsilon Iota chapter.
+4. Shall be responsible for providing continual member education through presentation given once monthly on the history and values of Psi Upsilon and the Epsilon Iota chapter.
 5. Shall maintain a written history of major chapter events.
+6. Shall maintain and organize the library.
 
 #### Alumni/Co-op Secretary
 
