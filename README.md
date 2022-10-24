@@ -10,7 +10,7 @@
       * [Article II: Voting](#article-ii-voting)
          * [Section 1: Franchisement](#section-1-franchisement)
          * [Section 2: Vote classes](#section-2-vote-classes)
-         * [Section 3: Voting on motions](#section-3-vote-on-motions)
+         * [Section 3: Voting on motions](#section-3-voting-on-motions)
       * [Article III: Meetings](#article-iii-meetings)
          * [Section 1: General](#section-1-general)
          * [Section 2: Attendance](#section-2-attendance)
@@ -55,7 +55,7 @@
             * [Songleader](#songleader)
             * [Network Administrator](#network-administrator)
             * [Faculty Correspondent](#faculty-correspondent)
-            * [Member Wellness Chairman](#member-wellness-chair)
+            * [Member Wellness Chairman](#member-wellness-chairman)
       * [Article VI: Committees](#article-vi-committees)
          * [Section 1: Executive Committee](#section-1-executive-committee)
          * [Section 2: Judicial Committee](#section-2-judicial-committee)
@@ -65,7 +65,7 @@
          * [Section 6: House Committee](#section-6-house-committee)
          * [Section 7: Pledge Education Committee](#section-7-pledge-education-committee)
          * [Section 8: External Affairs Committee](#section-8-external-affairs-committee)
-         * [Section 9: Member Wellness Committee](#section-9-external-affairs-committee)
+         * [Section 9: Member Wellness Committee](#section-9-member-wellness-committee)
          * [Section 10: Ad-hoc Committees](#section-10-ad-hoc-committees)
       * [Article VII: Finances](#article-vii-finances)
          * [Section 1: Room and Board](#section-1-room-and-board)
@@ -95,12 +95,13 @@
          * [Section 6: Responsibilities in the event of prevention failure](#section-6-responsibilities-in-the-event-of-prevention-failure)
       * [Article XII: Psi Upsilon Scholarship Policy](#article-xii-psi-upsilon-scholarship-policy)
          * [Section 1: Statement](#section-1-statement-1)
-         * [Section 2: Scholarship Chair](#section-2-scholarship-chair)
-         * [Section 3: GPA Requirements](#section-3-gpa-requirements)
-         * [Section 4: Academic standing](#section-4-academic-standing)
-         * [Section 5: Disciplinary Action](#section-5-disciplinary-action)
+         * [Section 2: Disclosed Information](#section-2-disclosed-information)
+         * [Section 3: Standing](#section-3-standing)
+         * [Section 4: Scholarship Plans](#section-4-scholarship-plans)
+         * [Section 5: GPA Requirements](#section-5-gpa-requirements)
          * [Section 6: Rights of Brothers](#section-6-rights-of-brothers)
-         * [Section 7: Miscellaneous](#section-7-miscellaneous)
+         * [Section 7: Disciplinary Action](#section-7-disciplinary-action)
+         * [Section 8: Miscellaneous](#section-8-miscellaneous)
       * [Article XIII: Epsilon Iota Member Involvement Policy](#article-xiii-epsilon-iota-member-involvement-policy)
          * [Section 1: Statement](#section-1-statement-2)
          * [Section 2: Required Events](#section-2-required-events)
@@ -703,7 +704,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 2. All checks to be drawn against Chapter funds must be signed by at least two of the following officers: Archon, Vice President, Treasurer, where one of the signatures must be that of the Archon or Treasurer, if the amount of the check is equal to or greater than one hundred dollars ($100), unless said check will be used to cover outstanding debt incurred by the chapter in the normal course of operations, e.g. the power bill.
 3. Any check to be drawn against Chapter funds issued to the Treasurer or to the Archon must be signed by any two of the following officers: Archon, Vice President, Treasurer, regardless of amount.
 
-### Section 19: Social Chair 3-3 Exception
+### Section 10: Social Chair 3-3 Exception
 
 1. The Social Chairman shall not have to pay their share of the Chapter’s “3-3” cost which they organize and oversee.
 
@@ -833,24 +834,24 @@ The Chapter shall abide by the following policies and guidelines:
     4. Prohibit the relevant brother from consuming alcohol in the chapter house.
     5. Send an obstinate brother before the judicial board.
 
-### Section 4: GPA Requirements
+### Section 5: GPA Requirements
 1. All members will be required to maintain a cumulative GPA above 2.0 and be enrolled in at least 12 credit hours, unless fewer than 12 credits are required to graduate.
 2. Major office must be in good academic standing or above. Any major officer who fall to a lower standing will be subject to a review by the member wellness committee for continued office.
 3. Minor officers or judicial board representatives must be in cautionary academic standing or above. Any such person who falls to probationary standing will be subject to a review by the member wellness committee for continued office.
 4. These requirements will be suspended in the event there are not enough eligible members to fill necessary positions.
 
-### Section 5: Rights of brothers
+### Section 6: Rights of brothers
 1. All information regarding a member’s GPA Is to kept strictly confidential between the brother, the scholarship chair and the Archon. Breaches of this confidentiality will be subject to a judicial board review.
 2. Any brother who believes the scholarship chair is abusing their powers or has created an unreasonable academic plan may appeal to the Archon. The Archon may override the scholarship chair or, with the consent of the brother in question, bring the matter before the judicial board.
 
-### Section 6: Disciplinary Action
+### Section 7: Disciplinary Action
 1. A member placed on Academic Probation by the University may be subject to disciplinary action recommended by the Scholarship Chair or advisor to and determined by the Executive Committee, including:
   1. Suspension of social privileges.Loss of social privileges will be defined as disallowed attendance at Psi Upsilon registered parties (except 3-3 and Founder’s), and disallowed alcohol consumption in the house.
   2. Removal from Committee Chairmanship.
   3. Vacating elected office and prohibition from nomination for elected office.
 2. If a member fails to complete mandated study hours for a week without a valid excuse submitted to the Scholarship Chair they will be subject to disciplinary action recommended by the Scholarship Chair or advisor to and determined by the Executive Committee. If a member consistently fails to meet their mandated study hours their case will be presented to the Executive Committee to determine appropriate disciplinary action.
 
-### Section 7: Miscellaneous
+### Section 8: Miscellaneous
 1. If the chapter has too few brothers to fill positions with the GPA requirement in place, the requirement shall be suspended until sufficient numbers are active.
 2. Pledges should be educated about this policy and what it entails prior to initiating.
 
@@ -911,6 +912,8 @@ Class D is the MAXIMUM number of no votes where the vote still passes
 
 | Brothers  | Class A | Class B | Class C | Class D |
 | ---------:| ------- | ------- | ------- | ------- |
+| 8         | 5       | 6       | 8       | 0       |
+| 9         | 6       | 6       | 9       | 0       |
 | 10        | 6       | 7       | 9       | 0       |
 | 11        | 6       | 8       | 10      | 0       |
 | 12        | 7       | 8       | 11      | 0       |
