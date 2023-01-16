@@ -48,7 +48,7 @@
             * [Philanthropy Chairman](#philanthropy-chairman)
             * [Archivist](#archivist)
             * [Alumni/Co-op Secretary](#alumnico-op-secretary)
-            * [Fraternity Educator](#fraternity-educator)
+            * [Pledge Educator](#fraternity-educator)
             * [Risk Manager](#risk-manager)
             * [Summer House Manager](#summer-house-manager)
             * [Summer Treasurer](#summer-treasurer)
@@ -284,7 +284,7 @@
     2. Philanthropy Chairman
     3. Archivist
     4. Alumni/Co-op Secretary
-    5. Fraternity Educator
+    5. Pledge Educator
     6. Risk Manager
     8. Network Administrator
     7. Faculty Correspondent
@@ -489,7 +489,7 @@
 4. Shall be responsible for reporting actions of the Alumni Association to the Chapter.
 5. Shall be responsible for all mailings to excused members, area alumni, alumni of other Chapters, and the Fraternity headquarters.
 
-#### Fraternity Educator
+#### Pledge Educator
 
 1. Shall be responsible for the education of pledges previous to Initiation into the brotherhood.
 2. Shall report to the brotherhood as to the progress of the education as requested by the Archon.
@@ -621,8 +621,8 @@
 
 ### Section 7: Pledge Education Committee
 
-1. Shall be chaired by the Fraternity Educator.
-2. Shall be responsible for defining a Fraternity education program and help the Fraternity Educator implement such a program.
+1. Shall be chaired by the Pledge Educator.
+2. Shall be responsible for defining a Fraternity education program and help the Pledge Educator implement such a program.
 
 ### Section 8: External Affairs Committee
 
