@@ -608,7 +608,7 @@
 
 ### Section 5: Risk Management Policy Committee
 
-1. Chaired by the Risk Manager.
+1. Shall be chaired by the Risk Manager.
 2. Members shall include the Archon and the Social Chairman.
 3. Responsible for suggesting changes to the Chapter’s Alcohol Policy (see Article X) as state and local laws change and the Chapter evolves.
 4. Shall monitor parties in accordance to the Alcohol Policy.
