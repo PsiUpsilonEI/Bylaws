@@ -84,16 +84,10 @@
          * [Section 1: Rules](#section-1-rules)
          * [Section 2: Required live-ins](#section-2-required-live-ins)
          * [Section 3: Room selection](#section-3-room-selection)
-      * [Article X: Alcohol Policy](#article-x-alcohol-policy)
-         * [Section 1: References](#section-1-references)
-      * [Article XI: Risk Management Program](#article-xi-risk-management-program)
+      * [Article X: Risk Management Program](#article-xi-risk-management-program)
          * [Section 1: Statement](#section-1-statement)
          * [Section 2: Risk Manager](#section-2-risk-manager)
-         * [Section 3: Alcohol Containment](#section-3-alcohol-containment)
-         * [Section 4: Sober Brother Selection](#section-4-sober-brother-selection)
-         * [Section 5: Sober Brother Responsibilities](#section-5-sober-brother-responsibilities)
-         * [Section 6: Responsibilities in the event of prevention failure](#section-6-responsibilities-in-the-event-of-prevention-failure)
-      * [Article XII: Psi Upsilon Scholarship Policy](#article-xii-psi-upsilon-scholarship-policy)
+      * [Article XI: Psi Upsilon Scholarship Policy](#article-xii-psi-upsilon-scholarship-policy)
          * [Section 1: Statement](#section-1-statement-1)
          * [Section 2: Disclosed Information](#section-2-disclosed-information)
          * [Section 3: Standing](#section-3-standing)
@@ -102,7 +96,7 @@
          * [Section 6: Rights of Brothers](#section-6-rights-of-brothers)
          * [Section 7: Disciplinary Action](#section-7-disciplinary-action)
          * [Section 8: Miscellaneous](#section-8-miscellaneous)
-      * [Article XIII: Epsilon Iota Member Involvement Policy](#article-xiii-epsilon-iota-member-involvement-policy)
+      * [Article XII: Epsilon Iota Member Involvement Policy](#article-xiii-epsilon-iota-member-involvement-policy)
          * [Section 1: Statement](#section-1-statement-2)
          * [Section 2: Required Events](#section-2-required-events)
          * [Section 3: Optional Events](#section-3-optional-events)
@@ -745,61 +739,16 @@ The following must live in the House, after voluntary assignments, in order to a
 
 The Archon shall have first preference in room selection.  Preference then goes to the remaining brothers in order of ascending EI number.
 
-## Article X: Alcohol Policy
-
-### Section 1: References
-
-The Chapter shall abide by the following policies and guidelines:
-  1. RPI’s Alcohol Policy (Section II, “RPI Alcohol Recommendations”).
-  2. RPI’s guidelines for fraternity parties (Appendix E, “RPI Alcohol Recommendations”).
-  3. RPI’s IFC Policy on Alcoholic Consumption.
-  4. Psi Upsilon Risk Management Program
-
-
-## Article XI: Risk Management Program
+## Article X: Risk Management Program
 
 ### Section 1: Statement
 
-1. This policy is formed such that the brothers of the Epsilon Iota Chapter of the Psi Upsilon fraternity will be able to go about their college careers without risk to themselves and others. These policies will fulfill this goal, while maintaining a friendly and happy brotherhood. The house will be a safe environment by mandating the presence of a sober brother at all times and by promoting brother intervention.
+1. This policy is formed such that the brothers of the Epsilon Iota Chapter of the Psi Upsilon fraternity will be able to go about their college careers without risk to themselves and others. These policies will fulfill this goal, while maintaining a friendly and happy brotherhood. The house will be a safe environment by promoting brother intervention.
 
 ### Section 2: Risk Manager
 1. It is the responsibility of the Risk Manager to ensure that at the first house meeting of the semester with mandated potential new member attendance the chapter discusses all risk management policies we hold ourselves to for their continued relevance and practicality. This discussion should encompass a discussion on why this policy is important to organizations and to specifically this chapter. This discussion should encompass all tacit rules regarding alcohol and fraternity safety. This discussion should review recommended ways for the sober brother to handle possible situations.
-2. It is the responsibility of the risk manager to ensure that a brother is selected to be a sober brother for every day deemed necessary by the brotherhood at the beginning of the semester.
 
-### Section 3: Alcohol Containment
-1. All alcohol stored in the house owned by one or more specific brothers is to be stored in a private area or locked locations in the basement of the house, and not left in the public areas of the house unattended.
-2. All alcohol stored in the house not owned by any particular brother is declared house alcohol and is to be stored in locked locations in the basement of the house.
-3. The location chosen to store all house alcohol shall have a lock to prevent brothers from consuming alcohol without first designating a willing sober brother.
-4. Keys or combination for locks are to be given to the Risk Manager and The Archon of the Fraternity, with an additional key to be held by the designated sober brother for the evening. In the Event that any of the brothers who would be given a key is under the age of 18 their key is passed down to the next highest ranking officer on the Executive Committee. 
-5. The lock is only to be removed when a keyed brother verifies that there is a sober brother present and ready to supervise the activities and reduce risk. The lock can then remain open until the drinking has ceased but must be closed before the sober brother retires for the evening.
-6. If a keyed brother is not present, an effort must be made to contact all keyed brothers to determine if they can unlock alcohol containers. If a key cannot be obtained a review of key availability will occur at the next chapter meeting.
-7. Any brother who fails to adhere to the alcohol containment rules will appear before the J-board, with a recommendation of social probation and a maximum financial penalty of $50.
-
-### Section 4: Sober Brother Selection
-1. There must be a sober brother at the house at all times alcohol is being consumed in a public manner.
-2. At the Beginning of a semester the risk manager must designate a sober brother for every Friday and Saturday night, as well as any night with a scheduled event that may result in drinking such as parties, gatherings, or any other night the brotherhood decides that it is necessary. 
-3. Every eligible brother must fulfill this role, such that it is evenly distributed among the brotherhood. Any brother unwilling to fulfill this role will appear before the J-board at the request of the risk manager, with a maximum financial penalty of $50.
-4. Any eligible brother who does not fulfill their duties as the sober brother will appear before the J-board at the request of the risk manager, with a maximum financial penalty of $100.
-5. The list of eligible sober brothers can be determined by the list of all undergraduate brothers minus any brother under the age of 18 and any brother who does not have a valid driver's license.
-
-### Section 5: Sober Brother Responsibilities
-1. While the sober brother is on duty, they have the authority to limit the amount of alcohol someone is consuming and end the event. The sober brother can end the event if it is after 2 am and must end the event if there is any reason to believe the event has become unsafe. Unsafe includes but is not limited to the likelihood of physical violence or a likelihood of individuals undertaking exceedingly dangerous pursuits.
-2. The Sober Brother is to be present at the house from 9pm until 2am the night of their scheduled shift, excepting that their shift is covering a scheduled event that takes place at a different time, in which case they must cover the entire event. 
-3. In the event that there are still people drinking when the sober brother wishes to retire, they may have another brother assume the responsibilities and authority of sober brother for the remainder of the evening, however they are not allowed to leave until a brother agrees to take over, or the alcohol is once again locked away and the people have started to sober up.
-4. The Sober brother is to remain in the common areas of the house and should be mindful of what is going on, though they are allowed to work on anything they want or do anything they wish to occupy their time other than consume alcohol or any other intoxicating substances.
-5. The Sober Brother is also to act as a designated driver for any brother or guest, whether going from the house to their home, another location to the house, or another location to their home. To fulfill this responsibility they must make sure the house phone is answered during their shift.
-6. In the event that the sober brother does not have a car available to them on campus another brother must make their car available to the sober brother, so they may fulfill their role as a designated driver.
-7. It is the sober brothers responsibility to make sure that brothers do not become dangerously intoxicated and to resolve any disputes or issues that arise.
-
-### Section 6: Responsibilities in the event of prevention failure
-1. Any brother who is currently sober should immediately call for external help from public servants, RPI public safety, Troy police, or emergency medical services. 
-2. The on duty sober brother should then call the Archon and Alumni Advisor.
-3. A way to reach all necessary people must be listed on the contact sheet.
-4. Within one week, the Archon will inform Psi Upsilon international of what has occurred.
-5. This policy will be reviewed to prevent a failure of the same nature.
-6. The E-board lead by the Vice President will conduct an investigation into why no brother, sober or intoxicated, intervined to prevent the transgression. An educational program will be developed by the Risk manager to address the lack of brother bystander intervention.
-
-## Article XII: Psi Upsilon Scholarship Policy
+## Article XI: Psi Upsilon Scholarship Policy
 
 ### Section 1: Statement
 1. As our chapter strives for academic excellence, each brother should endeavor to attain the highest possible academic standing. The chapter should always strive to go above and beyond other fraternal organizations, and each brother should be committed to supporting one another academically.
@@ -855,7 +804,7 @@ The Chapter shall abide by the following policies and guidelines:
 1. If the chapter has too few brothers to fill positions with the GPA requirement in place, the requirement shall be suspended until sufficient numbers are active.
 2. Pledges should be educated about this policy and what it entails prior to initiating.
 
-## Article XIII: Epsilon Iota Member Involvement Policy 
+## Article XII: Epsilon Iota Member Involvement Policy 
 
 ### Section 1: Statement
  
