@@ -48,7 +48,7 @@
             * [Philanthropy Chairman](#philanthropy-chairman)
             * [Archivist](#archivist)
             * [Alumni/Co-op Secretary](#alumnico-op-secretary)
-            * [Pledge Educator](#fraternity-educator)
+            * [Pledge Educator](#pledge-educator)
             * [Risk Manager](#risk-manager)
             * [Summer House Manager](#summer-house-manager)
             * [Summer Treasurer](#summer-treasurer)
