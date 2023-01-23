@@ -113,8 +113,8 @@
 - Vice President of Internal Affairs: Carsen Clark
 - Vice President of External Affairs: Kai Surlis
 - Treasurer: Camille Brent
-- House Manager: Rhys Bollerman
-- Secretary: Connor Rudnick
+- House Manager: Benjamin Malay
+- Secretary: Kana Rudnick
 
 ## Article I: The Bylaws
 
