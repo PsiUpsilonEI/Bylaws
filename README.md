@@ -54,7 +54,6 @@
             * [Summer Treasurer](#summer-treasurer)
             * [Songleader](#songleader)
             * [Network Administrator](#network-administrator)
-            * [Faculty Correspondent](#faculty-correspondent)
             * [Member Wellness Chairman](#member-wellness-chairman)
       * [Article VI: Committees](#article-vi-committees)
          * [Section 1: Executive Committee](#section-1-executive-committee)
@@ -281,8 +280,7 @@
     5. Pledge Educator
     6. Risk Manager
     8. Network Administrator
-    7. Faculty Correspondent
-    9. Member Wellness Chairman
+    8. Member Wellness Chairman
 3. Appointed House Offices
     1. Summer House Manager
     2. Summer Treasurer
@@ -546,14 +544,6 @@
     4. Any documents that contain private/personal information (such as RINs, birth dates, addresses, health related information, etc) without the consent of the individual 
     5. Documents that could be used to deduce personal information not present in the records
 
-#### Faculty Correspondent
-
-1. Shall ensure our faculty advisor is informed about relevant activities.
-2. Shall be responsible for all communications with the faculty of Rensselaer Polytechnic Institute.
-3. Shall run events which develop positive relations with the faculty.
-4. Shall submit a written report at the end of the semester with recommendations for the future.
-5. Shall be a member of external relations committee
-
 #### Member Wellness Chairman
 
 1. Shall maintain a collection of mental health resources and guides for accessing them.
@@ -621,7 +611,7 @@
 ### Section 8: External Affairs Committee
 
 1. Shall be chaired by the Vice-President of External Affairs.
-2. Members shall include the Rush Chairman, the Social Chairman, the Philanthropy Chairman, the Alumni Secretary, and the Faculty Correspondent.
+2. Members shall include the Rush Chairman, the Social Chairman, the Philanthropy Chairman, and the Alumni Secretary.
 3. Shall meet at least once every two (2) weeks.
 4. Responsible for compiling information from the Chapter to be used for the Chapter's Five Star submission.
 5. Shall ensure that the Philanthropy Chairman has the resources needed to conduct a charitable event involving external organizations.
