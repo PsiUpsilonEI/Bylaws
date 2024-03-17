@@ -168,8 +168,8 @@
 ### Section 3: Voting on motions
 
 1. The vote class for any motion not specified elsewhere in these bylaws will be at the discretion of the Archon who is advised to consult Roberts Rules. The Archon can be made to change the vote class of a motion by a class B vote. If this occurs several times each new vote class must be unique.
-2. All voting members can vote in the affirmative, the negative or abstain from voting
-3. A present member who does not vote in the affirmative, negative or abstain will have failed to vote.
+2. All voting members can vote in the affirmative, the negative, or abstain from voting
+3. A present member who does not vote in the affirmative, negative, or abstain will have failed to vote.
 4. Fractional votes, should they exist, do not round or truncate.
 5. The brother running the vote may vote on the motion at any time prior to the announcement of the results.
 6. If a voting member cannot be present to vote on a motion they may tell their vote to the archon in advance or empower another brother to vote on their behalf.
