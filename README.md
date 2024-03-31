@@ -56,6 +56,7 @@
             * [Network Administrator](#network-administrator)
             * [Faculty Correspondent](#faculty-correspondent)
             * [Member Wellness Chairman](#member-wellness-chairman)
+            * [Social Media Chair](#social-media-chair)
       * [Article VI: Committees](#article-vi-committees)
          * [Section 1: Executive Committee](#section-1-executive-committee)
          * [Section 2: Judicial Committee](#section-2-judicial-committee)
@@ -109,12 +110,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Zachary Niles Peretz
-- Vice President of Internal Affairs: Carsen Clark
-- Vice President of External Affairs: Kai Surlis
-- Treasurer: Camille Brent
-- House Manager: Benjamin Malay
-- Secretary: Kana Rudnick
+- Archon: Kai Surlis
+- Vice President of Internal Affairs: Kana Rudnick
+- Vice President of External Affairs: Beatrix Malay
+- Treasurer: Sherry Li
+- House Manager: Beatrix Malay
+- Secretary: Cynthia Wu
 
 ## Article I: The Bylaws
 
@@ -124,7 +125,7 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted January 22, 2023 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted March 31, 2024 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
@@ -288,6 +289,7 @@
     2. Summer Treasurer
     3. Songleader
     4. Network Administrator
+    5. Social Media Chair
 4. Judicial Committee
     1. Chief Representative
     2. Senior Representative
@@ -561,6 +563,10 @@
 3. Shall organize and run Dead men’s tales.
 4. Shall keep all information told to them in confidence a secret so long as this information does not indicate an immediate threat to the chapter or any brother.
 5. Shall not be required as a duty of this office to personally manage the acute mental health crisis of a brother.
+
+#### Social Media Chair
+
+1. Shall be responsible for managing and maintaining activity on the Chapter's various social media accounts.
 
 ## Article VI: Committees
 
