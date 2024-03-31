@@ -839,7 +839,7 @@ The chapter can only thrive if its members work to maintain its functions. This 
  
 1. All brothers will start with 5 allotted absences at the start of the semester.
 2. If a brother fails to attend to a required event and does not have a valid excuse they will lose an allotted absence.
-3. If a brother is late to a required event, it will be at the digression of the event organizer if that brother loses an allotted absence.
+3. If a brother is late to a required event, it will be at the discretion of the event organizer if that brother loses an allotted absence.
 4. The number of remaining allotted absences will be tracked by the Secretary.
 5. It is the responsibility of the brother running the required event to report the use of an allotted absence to the secretary.
 6. A brother may at any time ask the Secretary the number of allotted absences they have remaining form the semester.
