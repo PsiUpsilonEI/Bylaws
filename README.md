@@ -557,10 +557,8 @@
 #### Member Wellness Chairman
 
 1. Shall maintain a collection of mental health resources and guides for accessing them.
-2. Shall be able to teach brothers how to manage, or help others manage, a mental health crisis.
-3. Shall organize and run Dead men’s tales.
-4. Shall keep all information told to them in confidence a secret so long as this information does not indicate an immediate threat to the chapter or any brother.
-5. Shall not be required as a duty of this office to personally manage the acute mental health crisis of a brother.
+2. Shall educate brothers on how to manage or help others manage a mental health crisis.
+3. Shall not be required nor expected to personally manage the acute mental health crisis of a brother as a duty of this office.
 
 ## Article VI: Committees
 
