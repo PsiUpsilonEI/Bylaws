@@ -109,12 +109,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Zachary Niles Peretz
-- Vice President of Internal Affairs: Carsen Clark
-- Vice President of External Affairs: Kai Surlis
-- Treasurer: Camille Brent
-- House Manager: Benjamin Malay
-- Secretary: Kana Rudnick
+- Archon: Cynthia Wu
+- Vice President of Internal Affairs: Kai Surlis
+- Vice President of External Affairs: Beatrix Malay
+- Treasurer: Sherry Li
+- House Manager: Janna Mousserie
+- Secretary: Violet Lu
 
 ## Article I: The Bylaws
 
@@ -161,7 +161,7 @@
 2. Class B - At least two-thirds of voting pool in favor,
 3. Class C - At least ninety percent of voting pool in favor.
 4. Class D - No more than five percent of voting pool against.
-5. Class E - Majority of the executive board member. 
+5. Class E - Majority of the executive board members. The six official executive board positions comprise the voting members; if multiple brothers share an executive board position, shares of the vote will be evenly split between any brothers that share a position. 
 6. Class J - At least three members of the Judicial Board.
 7. Class XJ - Two-thirds majority of non-Judicial Board members.
 
