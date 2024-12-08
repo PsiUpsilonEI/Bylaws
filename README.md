@@ -427,6 +427,7 @@
 3. Shall be responsible for maintaining the house office supplies.
 4. Shall track information regarding the houses attendance policy.
 5. Shall be Responsible for all correspondence other than that with Alumni or faculty.
+6. Shall be responsible for maintaining a calendar of chapter events.
 
 #### Rush Chairman
 
