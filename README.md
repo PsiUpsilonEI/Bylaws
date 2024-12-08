@@ -110,7 +110,7 @@
 ### Officers at Time of Ratification
 
 - Archon: Cynthia Wu
-- Vice President of Internal Affairs: Kai Surlis
+- Vice President of Internal Affairs: Mira Melville
 - Vice President of External Affairs: Beatrix Malay
 - Treasurer: Sherry Li
 - House Manager: Janna Mousserie
