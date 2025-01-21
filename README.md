@@ -56,6 +56,7 @@
             * [Network Administrator](#network-administrator)
             * [Faculty Correspondent](#faculty-correspondent)
             * [Member Wellness Chairman](#member-wellness-chairman)
+            * [Diversity, Equity, and Inclusion Chairman](#diversity-equity-and-inclusion-chairman)
       * [Article VI: Committees](#article-vi-committees)
          * [Section 1: Executive Committee](#section-1-executive-committee)
          * [Section 2: Judicial Committee](#section-2-judicial-committee)
@@ -110,11 +111,11 @@
 ### Officers at Time of Ratification
 
 - Archon: Cynthia Wu
-- Vice President of Internal Affairs: Mira Melville
+- Vice President of Internal Affairs: Nori Melville
 - Vice President of External Affairs: Beatrix Malay
-- Treasurer: Sherry Li
-- House Manager: Janna Mousserie
-- Secretary: Violet Lu
+- Treasurer: Regan O'Callaghan
+- House Manager: Janna Moussiere
+- Secretary: violet Lu
 
 ## Article I: The Bylaws
 
@@ -124,7 +125,7 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted January 22, 2023 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted January 6, 2025 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
@@ -560,6 +561,13 @@
 1. Shall maintain a collection of mental health resources and guides for accessing them.
 2. Shall educate brothers on how to manage or help others manage a mental health crisis.
 3. Shall not be required nor expected to personally manage the acute mental health crisis of a brother as a duty of this office.
+
+
+#### Diversity, Equity, and Inclusion Chairman
+
+1. Shall serve as a point of contact for brothers who have questions and concerns about diversity and inclusion.
+2. Shall organize and run a semesterly training to educate brothers on understanding and addressing issues related to bias, discrimination, and privilege.
+3. Shall regularly educate the brotherhood on information highlighting and celebrating various cultures and identities.
 
 ## Article VI: Committees
 
