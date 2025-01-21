@@ -110,12 +110,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Kai Surlis
-- Vice President of Internal Affairs: Kana Rudnick
+- Archon: Cynthia Wu
+- Vice President of Internal Affairs: Nori Melville
 - Vice President of External Affairs: Beatrix Malay
-- Treasurer: Sherry Li
-- House Manager: Beatrix Malay
-- Secretary: Cynthia Wu
+- Treasurer: Regan O'Callaghan
+- House Manager: Janna Moussiere
+- Secretary: violet Lu
 
 ## Article I: The Bylaws
 
@@ -125,7 +125,7 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted April 14, 2024 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted January 6, 2025 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
