@@ -162,15 +162,15 @@
 2. Class B - At least two-thirds of voting pool in favor,
 3. Class C - At least ninety percent of voting pool in favor.
 4. Class D - No more than five percent of voting pool against.
-5. Class E - Majority of the executive board member. 
+5. Class E - Majority of the executive board members. The six official executive board positions comprise the voting members; if multiple brothers share an executive board position, shares of the vote will be evenly split between any brothers that share a position. 
 6. Class J - At least three members of the Judicial Board.
 7. Class XJ - Two-thirds majority of non-Judicial Board members.
 
 ### Section 3: Voting on motions
 
 1. The vote class for any motion not specified elsewhere in these bylaws will be at the discretion of the Archon who is advised to consult Roberts Rules. The Archon can be made to change the vote class of a motion by a class B vote. If this occurs several times each new vote class must be unique.
-2. All voting members can vote in the affirmative, the negative or abstain from voting
-3. A present member who does not vote in the affirmative, negative or abstain will have failed to vote.
+2. All voting members can vote in the affirmative, the negative, or abstain from voting
+3. A present member who does not vote in the affirmative, negative, or abstain will have failed to vote.
 4. Fractional votes, should they exist, do not round or truncate.
 5. The brother running the vote may vote on the motion at any time prior to the announcement of the results.
 6. If a voting member cannot be present to vote on a motion they may tell their vote to the archon in advance or empower another brother to vote on their behalf.
@@ -428,6 +428,7 @@
 3. Shall be responsible for maintaining the house office supplies.
 4. Shall track information regarding the houses attendance policy.
 5. Shall be Responsible for all correspondence other than that with Alumni or faculty.
+6. Shall be responsible for maintaining a calendar of chapter events.
 
 #### Rush Chairman
 
@@ -558,10 +559,8 @@
 #### Member Wellness Chairman
 
 1. Shall maintain a collection of mental health resources and guides for accessing them.
-2. Shall be able to teach brothers how to manage, or help others manage, a mental health crisis.
-3. Shall organize and run Dead men’s tales.
-4. Shall keep all information told to them in confidence a secret so long as this information does not indicate an immediate threat to the chapter or any brother.
-5. Shall not be required as a duty of this office to personally manage the acute mental health crisis of a brother.
+2. Shall educate brothers on how to manage or help others manage a mental health crisis.
+3. Shall not be required nor expected to personally manage the acute mental health crisis of a brother as a duty of this office.
 
 
 #### Diversity, Equity, and Inclusion Chairman
@@ -847,7 +846,7 @@ The chapter can only thrive if its members work to maintain its functions. This 
  
 1. All brothers will start with 5 allotted absences at the start of the semester.
 2. If a brother fails to attend to a required event and does not have a valid excuse they will lose an allotted absence.
-3. If a brother is late to a required event, it will be at the digression of the event organizer if that brother loses an allotted absence.
+3. If a brother is late to a required event, it will be at the discretion of the event organizer if that brother loses an allotted absence.
 4. The number of remaining allotted absences will be tracked by the Secretary.
 5. It is the responsibility of the brother running the required event to report the use of an allotted absence to the secretary.
 6. A brother may at any time ask the Secretary the number of allotted absences they have remaining form the semester.
