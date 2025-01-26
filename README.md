@@ -115,7 +115,7 @@
 - Vice President of External Affairs: Beatrix Malay
 - Treasurer: Regan O'Callaghan
 - House Manager: Janna Moussiere
-- Secretary: violet Lu
+- Secretary: Violet Lu
 
 ## Article I: The Bylaws
 
@@ -159,12 +159,13 @@
 ### Section 2: Vote classes
 
 1. Class A - At least half of voting pool in favor.
-2. Class B - At least two-thirds of voting pool in favor,
-3. Class C - At least ninety percent of voting pool in favor.
-4. Class D - No more than five percent of voting pool against.
-5. Class E - Majority of the executive board members. The six official executive board positions comprise the voting members; if multiple brothers share an executive board position, shares of the vote will be evenly split between any brothers that share a position. 
-6. Class J - At least three members of the Judicial Board.
-7. Class XJ - Two-thirds majority of non-Judicial Board members.
+2. Class B - At least two-thirds of voting pool in favor.
+3. Class I - At least three-quarters of voting pool in favor.
+4. Class C - At least ninety percent of voting pool in favor.
+5. Class D - No more than ten percent of voting pool against.
+6. Class E - Majority of the executive board members. The six official executive board positions comprise the voting members; if multiple brothers share an executive board position, shares of the vote will be evenly split between any brothers that share a position.
+7. Class J - At least three members of the Judicial Board.
+8. Class XJ - Two-thirds majority of non-Judicial Board members.
 
 ### Section 3: Voting on motions
 
@@ -225,7 +226,7 @@
 2. Active members must have finished the Fraternity Education Program.
 3. Active members must fulfill academic requirements outlined in the scholarship policy (Article XII).
 4. Member must be a student of RPI.
-5. Initiation of a pledge into the brotherhood shall be determined by a Class C & D vote during the Chapter meeting prior to pre-Initiation Week.
+5. Initiation of a pledge into the brotherhood shall be determined by a Class I & D vote during the Chapter meeting prior to pre-Initiation Week.
 6. Member must have paid their International dues and Chapter social dues.
 
 ### Section 4: Inactive Membership
