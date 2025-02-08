@@ -133,7 +133,7 @@
 2. In case of dispute, the J-Board shall interpret the bylaws.
 3. A willful disobedience of these bylaws is grounds for fine or disciplinary action at the discretion of the Executive Committee.
 4. All Chapter policies that are not amendments are only valid for one year.
-5. A bylaw may be suspended by a Class C vote, for a time period (specified in the motion) no greater than one (1) year.
+5. A bylaw may be suspended by a Class A vote, for a time period (specified in the motion) no greater than one (1) year.
 
 ### Section 4: Amendments
 
@@ -145,10 +145,10 @@
 
 1. Chapter policies will cease to be in effect one year after their passing.
 2. In the event of a conflict between chapter policy and bylaws, the bylaws take precedent.
-3. After a chapter policy expires, it cannot become a chapter policy again for the next three years without revision. It must either become an amendment by a Class C vote, be revised and made chapter policy again, or not be in effect.
+3. After a chapter policy expires, it cannot become a chapter policy again for the next three years without revision. It must either become an amendment by a Class B vote, be revised and made chapter policy again, or not be in effect.
 4. All motions of chapter policy must be in writing and seconded by an active member.
 5. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
-6. The motion must be ratified by a Class B vote.
+6. The motion must be ratified by a Class A vote.
 
 ## Article II: Voting
 
@@ -216,8 +216,8 @@
 1. Candidates for pledge membership must be registered students of Rensselaer Polytechnic Institute (RPI).
 2. Candidates must not be members of any other college social fraternal organizations.
 3. The name of any candidates for pledging may be brought before the Chapter any number of times, but only once at each Chapter meeting.
-4. For a candidate to receive a bid, the proposal must pass a Class B & D vote.
-5. A depledged member may repledge upon approval by a Class B & D vote.
+4. For a candidate to receive a bid, the proposal must pass a Class A vote.
+5. A depledged member may repledge upon approval by a Class A vote.
 
 ### Section 3: Active Membership
 
@@ -356,7 +356,7 @@
 
 ### Section 3: Impeachment
 
-1. To impeach an officer requires a Class B vote.
+1. To impeach an officer requires a Class A vote.
 
 ### Section 4: Implicit Responsibility
 
@@ -657,7 +657,7 @@
 
 ### Section 1: Room and Board
 
-Room and board shall be budgeted by the Treasurer and approved by a Class B vote in the spring before the end of the fiscal year.  Room and Board shall be billed and paid on a semesterly basis, or the offending member may be removed from the house at the discretion of the Judicial Board.
+Room and board shall be budgeted by the Treasurer and approved by a Class A vote in the spring before the end of the fiscal year.  Room and Board shall be billed and paid on a semesterly basis, or the offending member may be removed from the house at the discretion of the Judicial Board.
 
 ### Section 2: Fiscal Year
 
