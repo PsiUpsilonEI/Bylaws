@@ -266,7 +266,7 @@
 1. An excused member is a member in good faith who has opted to become excused and therefore has no responsibilities and limited rights of an active member.
 2. Members who participate in the RPI co-op program, or who take a temporary leave from RPI, are considered excused.
 3. Excused members may not vote or hold office. However, excused members may run in elections when the term they take office is after they return to RPI.
-4. To return to active status, an excused member must simply announce their intentions to return to active membership during a Chapter meeting, and thereby are restored to active status.
+4. To return to active status, an excused member must petition the Judicial Board who must approve by a Class J vote.
 
 ## Article V: Officers, Elections, Duties, and Powers
 
@@ -668,7 +668,7 @@
 
 ### Section 1: Room and Board
 
-Room and board shall be budgeted by the Treasurer and approved by a Class A vote in the spring before the end of the fiscal year.  Room and Board shall be billed and paid on a semesterly basis, or the offending member may be removed from the house at the discretion of the Judicial Board.
+Room and board shall be budgeted by the Treasurer and approved by a Class A vote in the spring before the end of the fiscal year.  Room and Board shall be billed and paid on a semesterly basis, or the offending member may be removed from the house at the discretion of the Judicial Board by a Class J vote.
 
 ### Section 2: Fiscal Year
 
@@ -722,15 +722,15 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 
 ### Section 11: Judicial Board Appeals
 
-1. Any brother may appeal to the Judicial Board for exemption from these rules.  If granted, no fine(s) will be levied.
+1. Any brother may appeal to the Judicial Board for exemption from these rules by a Class J vote.  If granted, no fine(s) will be levied.
 
 ## Article VIII: Suspension and Expulsion
 
 1. Any member who has been reported as acting contrary to the interests of the Chapter shall, after due notice, be required to go before the Judicial Committee and answer to the charges against them. The Judicial Committee may impose a fine on the member if deemed necessary.
 2. Any member may be suspended or expelled by a Class C vote after two weeks of consideration by the brotherhood. A suspended or expelled member loses all rights and privileges of membership in the chapter.
-3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a majority vote of the Judicial Committee.
+3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a Class J vote.
 4. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class B vote.
-5. A person who has been expelled must petition the Judicial Committee for the return of active membership. Following Judicial Committee’s approval they can regain active membership following a Class B vote.
+5. A person who has been expelled must petition the Judicial Committee for the return of active membership by a Class J vote. Following Judicial Committee’s approval they can regain active membership following a Class B vote.
 
 ## Article IX: Housing
 
@@ -739,7 +739,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 1. In order to afford the cost of the physical House, we must be able to ensure that it is occupied at an optimum capacity.
 2. Only active brothers are allowed to live in the House.
 3. Any member may live in the house with the approval of the brotherhood and the Alumni Board.
-4. Non-member boarders shall only be solicited to live in the House after a class B and D vote by the undergraduate brotherhood, and must subsequently be approved by the Alumni Association of the Epsilon Iota Chapter. No boarders shall be allowed to live in the House until both requirements are met.
+4. Non-member boarders shall only be solicited to live in the House after a class B vote by the undergraduate brotherhood, and must subsequently be approved by the Alumni Association of the Epsilon Iota Chapter. No boarders shall be allowed to live in the House until both requirements are met.
 
 ### Section 2: Required live-ins
 
