@@ -232,7 +232,7 @@
 
 1. An inactive member has neither rights nor the responsibilities of an active member.
 2. An inactive member must be a student of RPI, a member of the EI chapter.
-3. A member may become inactive by a Class J vote. Change from inactive status to active status may only be granted by a Class C vote.
+3. A member may become inactive by a Class J vote. An inactive member may return to active status by a Class J vote.
 
 ### Section 5: Alumni Membership
 
