@@ -195,7 +195,7 @@
 5. Attendance shall be excused by a satisfactory excuse submitted to the Archon prior to the meeting.
 6. Any brother absent from a regular meeting or rush function without an excuse shall be fined fifteen (15) dollars, at the discretion of the Archon, to be collected by the Treasurer.
 7. Tardiness to regular meetings is cause for a fine of fifteen (15) dollars to be imposed at the discretion of the Archon.
-8. The Archon or a Class A vote shall grant the validity of an excuse.
+8. The Archon shall grant the validity of an excuse.
 
 ## Article IV: Membership
 
@@ -343,7 +343,7 @@
 #### Subsection D: Appointed Positions
 
 1. All appointed positions must be appointed by the President and approved by a Class A vote.
-2. Appointed officers may be dismissed at the discretion of the Executive Committee.
+2. Appointed officers may be dismissed at the discretion of the Archon.
 
 #### Subsection E: Judicial Board
 
@@ -696,7 +696,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 
 ### Section 8: Excess Moneys
 
-1. Excess moneys at the end of the fiscal year are nonrefundable unless approved by a Class C vote.
+1. Excess moneys at the end of the fiscal year are nonrefundable unless approved by Finance Committee.
 2. Moneys remaining after the end of the fiscal year shall be put in short term accounts.
 
 ### Section 9: Checks drawn against the Chapter Treasury
@@ -717,7 +717,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 
 1. Any member who has been reported as acting contrary to the interests of the Chapter shall, after due notice, be required to go before the Judicial Committee and answer to the charges against them. The Judicial Committee may impose a fine on the member if deemed necessary.
 2. Any member may be suspended or expelled by a Class C vote after two weeks of consideration by the brotherhood. A suspended or expelled member loses all rights and privileges of membership in the chapter.
-3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a majority vote of the Judicial Committee. This expulsion is subject to review at the next Chapter meeting at which the expulsion may be overturned by a Class C vote.
+3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a majority vote of the Judicial Committee.
 4. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class C and D vote.
 5. A person who has been expelled must petition the Judicial Committee for the return of active membership. Following Judicial Committee’s approval they can regain active membership following a Class C and D vote.
 
