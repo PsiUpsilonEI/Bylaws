@@ -169,12 +169,12 @@
 
 | Class    | Description | Incomplete List |
 |----------|--------------------------------------------------------------------------------------|----------------------|
-| A | Routine Decisions | Approving Appointed Positions, Chapter Policies, Impeaching Officers, Approving Room and Board Budgets, Bylaws Suspension, Bid Extension  |
-| B | Permanent Decisions | Change of Arbitrary Vote Class, Brother Vote, Returning a Suspended Brother, Ratifying J-Board Decision to Return an Expelled Brother, Allowing Non-Members to Live In-House  |
-| C | Extra-Permanent Decisions | Expelling a Brother  |
-| E | Emergency Decisions, Routine Implementation of Chapter Decisions | Active to Alumni Status  |
-| J | Disciplinary Action, Resolution of Appeals to J-Board, Constitutional Interpretation | Active to Inactive Status, Inactive to Active Status, Levying Fines for Inattendance  |
-| XJ | Overturning J-Board Descisions including Appeals to Disciplinary Action, Abstaining a J-Board representative | |
+| A | Routine decisions requiring a simple majority | Approving appointed positions, chapter policies, impeaching officers, approving room and board budgets, suspending bylaws, extending bids |
+| B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, reinstating a suspended brother, ratifying J-Board's decision to reinstate an expelled brother, allowing non-members to live in-house |
+| C | High-Stakes decisions requiring near-unanimous approval | Expelling a brother  |
+| E | Emergency decisions and routine implementation of chapter resolutions | Granting alumni status to an active member |
+| J | Judicial rulings, constitutional interpretation, and disciplinary actions | Changing an active member to inactive status (and vice versa), levying fines for non-attendance |
+| XJ | Overturning J-Board decisions, including appeals to disciplinary actions | abstaining a J-Board representative |
 
 
 ### Section 3: Voting on motions
