@@ -161,10 +161,9 @@
 1. Class A - At least half of voting pool in favor.
 2. Class B - At least two-thirds of voting pool in favor,
 3. Class C - At least ninety percent of voting pool in favor.
-4. Class D - No more than five percent of voting pool against.
-5. Class E - Majority of the executive board members. The six official executive board positions comprise the voting members; if multiple brothers share an executive board position, shares of the vote will be evenly split between any brothers that share a position. 
-6. Class J - At least three members of the Judicial Board.
-7. Class XJ - Two-thirds majority of non-Judicial Board members.
+4. Class E - Majority of the executive board members. The six official executive board positions comprise the voting members; if multiple brothers share an executive board position, shares of the vote will be evenly split between any brothers that share a position. 
+5. Class J - At least three members of the Judicial Board.
+6. Class XJ - Two-thirds majority of non-Judicial Board members.
 
 ### Section 3: Voting on motions
 
@@ -863,38 +862,35 @@ The chapter can only thrive if its members work to maintain its functions. This 
 
 ## Appendix 1: Vote class totals
 
-Class D is the MAXIMUM number of no votes where the vote still passes
 
-
-| Brothers  | Class A | Class B | Class C | Class D |
-| ---------:| ------- | ------- | ------- | ------- |
-| 8         | 5       | 6       | 8       | 0       |
-| 9         | 6       | 6       | 9       | 0       |
-| 10        | 6       | 7       | 9       | 0       |
-| 11        | 6       | 8       | 10      | 0       |
-| 12        | 7       | 8       | 11      | 0       |
-| 13        | 7       | 9       | 12      | 0       |
-| 14        | 8       | 10      | 13      | 0       |
-| 15        | 8       | 10      | 14      | 0       |
-| 16        | 9       | 11      | 15      | 0       |
-| 17        | 9       | 12      | 16      | 0       |
-| 18        | 10      | 12      | 17      | 0       |
-| 19        | 10      | 13      | 18      | 0       |
-| 20        | 11      | 14      | 18      | 1       |
-| 21        | 11      | 14      | 19      | 1       |
-| 22        | 12      | 15      | 20      | 1       |
-| 23        | 12      | 16      | 21      | 1       |
-| 24        | 13      | 16      | 22      | 1       |
-| 25        | 13      | 17      | 23      | 1       |
-| 26        | 14      | 18      | 24      | 1       |
-| 27        | 14      | 18      | 25      | 1       |
-| 28        | 15      | 19      | 26      | 1       |
-| 29        | 15      | 20      | 27      | 1       |
+| Brothers  | Class A | Class B | Class C |
+| ---------:| ------- | ------- | ------- |
+| 8         | 5       | 6       | 8       |
+| 9         | 6       | 6       | 9       |
+| 10        | 6       | 7       | 9       |
+| 11        | 6       | 8       | 10      |
+| 12        | 7       | 8       | 11      |
+| 13        | 7       | 9       | 12      |
+| 14        | 8       | 10      | 13      |
+| 15        | 8       | 10      | 14      |
+| 16        | 9       | 11      | 15      |
+| 17        | 9       | 12      | 16      |
+| 18        | 10      | 12      | 17      |
+| 19        | 10      | 13      | 18      |
+| 20        | 11      | 14      | 18      |
+| 21        | 11      | 14      | 19      |
+| 22        | 12      | 15      | 20      |
+| 23        | 12      | 16      | 21      |
+| 24        | 13      | 16      | 22      |
+| 25        | 13      | 17      | 23      |
+| 26        | 14      | 18      | 24      |
+| 27        | 14      | 18      | 25      |
+| 28        | 15      | 19      | 26      |
+| 29        | 15      | 20      | 27      |
 
 
 ```python
 def class_A(num): return math.floor(num/2) + 1
 def class_B(num): return math.ceil(num * 2 / 3)
 def class_C(num): return math.ceil(num * 9 / 10)
-def class_D(num): return math.floor(num * .05)
 ```
