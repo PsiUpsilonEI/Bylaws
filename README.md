@@ -165,6 +165,18 @@
 5. Class J - At least three members of the Judicial Board.
 6. Class XJ - Two-thirds majority of non-Judicial Board members.
 
+#### Brief Summary of Vote Classes
+
+| Class    | Description | Incomplete List |
+|----------|--------------------------------------------------------------------------------------|----------------------|
+| A | Routine Decisions | Approving Appointed Positions, Chapter Policies, Impeaching Officers, Approving Room and Board Budgets, Bylaws Suspension, Bid Extension  |
+| B | Permanent Decisions | Change of Arbitrary Vote Class, Brother Vote, Returning a Suspended Brother, Ratifying J-Board Decision to Return an Expelled Brother, Allowing Non-Members to Live In-House  |
+| C | Extra-Permanent Decisions | Expelling a Brother  |
+| E | Emergency Decisions, Routine Implementation of Chapter Decisions | Active to Alumni Status  |
+| J | Disciplinary Action, Resolution of Appeals to J-Board, Constitutional Interpretation | Active to Inactive Status, Inactive to Active Status, Levying Fines for Inattendance  |
+| XJ | Overturning J-Board Descisions including Appeals to Disciplinary Action, Abstaining a J-Board representative | |
+
+
 ### Section 3: Voting on motions
 
 1. The vote class for any motion not specified elsewhere in these bylaws will be at the discretion of the Archon who is advised to consult Roberts Rules. The Archon can be made to change the vote class of a motion by a class B vote. If this occurs several times each new vote class must be unique.
