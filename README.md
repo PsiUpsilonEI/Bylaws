@@ -129,7 +129,7 @@
 
 ### Section 3: Enactment
 
-1. Ratification of the bylaws shall be by a Class C vote.  Bylaws may be changed by amendment or by bylaw convention.
+1. Ratification of the bylaws shall be by a Class B vote.  Bylaws may be changed by amendment or by bylaw convention.
 2. In case of dispute, the J-Board shall interpret the bylaws.
 3. A willful disobedience of these bylaws is grounds for fine or disciplinary action at the discretion of the Executive Committee.
 4. All Chapter policies that are not amendments are only valid for one year.
@@ -139,7 +139,7 @@
 
 1. All motions of amendment must be in writing and seconded by two active members.
 2. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
-3. The motion must be ratified by a Class C vote.
+3. The motion must be ratified by a Class B vote.
 
 ### Section 5: Chapter Policy
 
@@ -225,7 +225,7 @@
 2. Active members must have finished the Fraternity Education Program.
 3. Active members must fulfill academic requirements outlined in the scholarship policy (Article XII).
 4. Member must be a student of RPI.
-5. Initiation of a pledge into the brotherhood shall be determined by a Class C & D vote during the Chapter meeting prior to pre-Initiation Week.
+5. Initiation of a pledge into the brotherhood shall be determined by a Class B vote during the Chapter meeting prior to pre-Initiation Week.
 6. Member must have paid their International dues and Chapter social dues.
 
 ### Section 4: Inactive Membership
@@ -718,8 +718,8 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 1. Any member who has been reported as acting contrary to the interests of the Chapter shall, after due notice, be required to go before the Judicial Committee and answer to the charges against them. The Judicial Committee may impose a fine on the member if deemed necessary.
 2. Any member may be suspended or expelled by a Class C vote after two weeks of consideration by the brotherhood. A suspended or expelled member loses all rights and privileges of membership in the chapter.
 3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a majority vote of the Judicial Committee.
-4. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class C and D vote.
-5. A person who has been expelled must petition the Judicial Committee for the return of active membership. Following Judicial Committee’s approval they can regain active membership following a Class C and D vote.
+4. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class B vote.
+5. A person who has been expelled must petition the Judicial Committee for the return of active membership. Following Judicial Committee’s approval they can regain active membership following a Class B vote.
 
 ## Article IX: Housing
 
