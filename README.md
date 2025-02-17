@@ -125,7 +125,7 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted January 6, 2025 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted February 17, 2025 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
