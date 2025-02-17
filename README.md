@@ -125,30 +125,30 @@
 
 ### Section 2: Adoption
 
-1. These bylaws adopted January 6, 2025 shall replace all previous bylaws and amendments of the Chapter.
+1. These bylaws adopted February 17, 2025 shall replace all previous bylaws and amendments of the Chapter.
 
 ### Section 3: Enactment
 
-1. Ratification of the bylaws shall be by a Class C vote.  Bylaws may be changed by amendment or by bylaw convention.
+1. Ratification of the bylaws shall be by a Class B vote.  Bylaws may be changed by amendment or by bylaw convention.
 2. In case of dispute, the J-Board shall interpret the bylaws.
 3. A willful disobedience of these bylaws is grounds for fine or disciplinary action at the discretion of the Executive Committee.
 4. All Chapter policies that are not amendments are only valid for one year.
-5. A bylaw may be suspended by a Class C vote, for a time period (specified in the motion) no greater than one (1) year.
+5. A bylaw may be suspended by a Class A vote, for a time period (specified in the motion) no greater than one (1) year.
 
 ### Section 4: Amendments
 
 1. All motions of amendment must be in writing and seconded by two active members.
 2. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
-3. The motion must be ratified by a Class C vote.
+3. The motion must be ratified by a Class B vote.
 
 ### Section 5: Chapter Policy
 
 1. Chapter policies will cease to be in effect one year after their passing.
 2. In the event of a conflict between chapter policy and bylaws, the bylaws take precedent.
-3. After a chapter policy expires, it cannot become a chapter policy again for the next three years without revision. It must either become an amendment by a Class C vote, be revised and made chapter policy again, or not be in effect.
+3. After a chapter policy expires, it cannot become a chapter policy again for the next three years without revision. It must either become an amendment by a Class B vote, be revised and made chapter policy again, or not be in effect.
 4. All motions of chapter policy must be in writing and seconded by an active member.
 5. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
-6. The motion must be ratified by a Class B vote.
+6. The motion must be ratified by a Class A vote.
 
 ## Article II: Voting
 
@@ -161,10 +161,21 @@
 1. Class A - At least half of voting pool in favor.
 2. Class B - At least two-thirds of voting pool in favor,
 3. Class C - At least ninety percent of voting pool in favor.
-4. Class D - No more than five percent of voting pool against.
-5. Class E - Majority of the executive board members. The six official executive board positions comprise the voting members; if multiple brothers share an executive board position, shares of the vote will be evenly split between any brothers that share a position. 
-6. Class J - At least three members of the Judicial Board.
-7. Class XJ - Two-thirds majority of non-Judicial Board members.
+4. Class E - Majority of the executive board members. The six official executive board positions comprise the voting members; if multiple brothers share an executive board position, shares of the vote will be evenly split between any brothers that share a position. 
+5. Class J - At least three members of the Judicial Board.
+6. Class XJ - Two-thirds majority of non-Judicial Board members.
+
+#### Brief Summary of Vote Classes
+
+| Class    | Description | Non-Exhaustive List |
+|----------|--------------------------------------------------------------------------------------|----------------------|
+| A | Routine decisions requiring a simple majority | Approving appointed positions, chapter policies, impeaching officers, approving room and board budgets, suspending bylaws, extending bids |
+| B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, suspending a brother, reinstating a suspended brother |
+| C | High-Stakes decisions requiring near-unanimous approval | Expelling a brother, ratifying J-Board's decision to reinstate an expelled brother |
+| E | Emergency decisions and routine implementation of chapter resolutions | Granting alumni status to an active member |
+| J | Judicial rulings, constitutional interpretation, and disciplinary actions | Changing an active member to inactive status (and vice versa), levying fines for non-attendance |
+| XJ | Overturning J-Board decisions, including appeals to disciplinary actions | abstaining a J-Board representative |
+
 
 ### Section 3: Voting on motions
 
@@ -195,7 +206,7 @@
 5. Attendance shall be excused by a satisfactory excuse submitted to the Archon prior to the meeting.
 6. Any brother absent from a regular meeting or rush function without an excuse shall be fined fifteen (15) dollars, at the discretion of the Archon, to be collected by the Treasurer.
 7. Tardiness to regular meetings is cause for a fine of fifteen (15) dollars to be imposed at the discretion of the Archon.
-8. The Archon or a Class A vote shall grant the validity of an excuse.
+8. The Archon shall grant the validity of an excuse.
 
 ## Article IV: Membership
 
@@ -216,8 +227,8 @@
 1. Candidates for pledge membership must be registered students of Rensselaer Polytechnic Institute (RPI).
 2. Candidates must not be members of any other college social fraternal organizations.
 3. The name of any candidates for pledging may be brought before the Chapter any number of times, but only once at each Chapter meeting.
-4. For a candidate to receive a bid, the proposal must pass a Class B & D vote.
-5. A depledged member may repledge upon approval by a Class B & D vote.
+4. For a candidate to receive a bid, the proposal must pass a Class A vote.
+5. A depledged member may repledge upon approval by a Class A vote.
 
 ### Section 3: Active Membership
 
@@ -225,14 +236,14 @@
 2. Active members must have finished the Fraternity Education Program.
 3. Active members must fulfill academic requirements outlined in the scholarship policy (Article XII).
 4. Member must be a student of RPI.
-5. Initiation of a pledge into the brotherhood shall be determined by a Class C & D vote during the Chapter meeting prior to pre-Initiation Week.
+5. Initiation of a pledge into the brotherhood shall be determined by a Class B vote during the Chapter meeting prior to pre-Initiation Week.
 6. Member must have paid their International dues and Chapter social dues.
 
 ### Section 4: Inactive Membership
 
 1. An inactive member has neither rights nor the responsibilities of an active member.
 2. An inactive member must be a student of RPI, a member of the EI chapter.
-3. A member may become inactive by a Class J vote. Change from inactive status to active status may only be granted by a Class C vote.
+3. A member may become inactive by a Class J vote. An inactive member may return to active status by a Class J vote.
 
 ### Section 5: Alumni Membership
 
@@ -255,7 +266,7 @@
 1. An excused member is a member in good faith who has opted to become excused and therefore has no responsibilities and limited rights of an active member.
 2. Members who participate in the RPI co-op program, or who take a temporary leave from RPI, are considered excused.
 3. Excused members may not vote or hold office. However, excused members may run in elections when the term they take office is after they return to RPI.
-4. To return to active status, an excused member must simply announce their intentions to return to active membership during a Chapter meeting, and thereby are restored to active status.
+4. To return to active status, an excused member must petition the Judicial Board who must approve by a Class J vote.
 
 ## Article V: Officers, Elections, Duties, and Powers
 
@@ -343,7 +354,7 @@
 #### Subsection D: Appointed Positions
 
 1. All appointed positions must be appointed by the President and approved by a Class A vote.
-2. Appointed officers may be dismissed at the discretion of the Executive Committee.
+2. Appointed officers may be dismissed at the discretion of the Archon.
 
 #### Subsection E: Judicial Board
 
@@ -356,7 +367,7 @@
 
 ### Section 3: Impeachment
 
-1. To impeach an officer requires a Class B vote.
+1. To impeach an officer requires a Class A vote.
 
 ### Section 4: Implicit Responsibility
 
@@ -657,7 +668,7 @@
 
 ### Section 1: Room and Board
 
-Room and board shall be budgeted by the Treasurer and approved by a Class B vote in the spring before the end of the fiscal year.  Room and Board shall be billed and paid on a semesterly basis, or the offending member may be removed from the house at the discretion of the Judicial Board.
+Room and board shall be budgeted by the Treasurer and approved by a Class A vote in the spring before the end of the fiscal year.  Room and Board shall be billed and paid on a semesterly basis, or the offending member may be removed from the house at the discretion of the Judicial Board by a Class J vote.
 
 ### Section 2: Fiscal Year
 
@@ -696,7 +707,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 
 ### Section 8: Excess Moneys
 
-1. Excess moneys at the end of the fiscal year are nonrefundable unless approved by a Class C vote.
+1. Excess moneys at the end of the fiscal year are nonrefundable unless approved by Finance Committee.
 2. Moneys remaining after the end of the fiscal year shall be put in short term accounts.
 
 ### Section 9: Checks drawn against the Chapter Treasury
@@ -711,15 +722,16 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 
 ### Section 11: Judicial Board Appeals
 
-1. Any brother may appeal to the Judicial Board for exemption from these rules.  If granted, no fine(s) will be levied.
+1. Any brother may appeal to the Judicial Board for exemption from these rules by a Class J vote.  If granted, no fine(s) will be levied.
 
 ## Article VIII: Suspension and Expulsion
 
 1. Any member who has been reported as acting contrary to the interests of the Chapter shall, after due notice, be required to go before the Judicial Committee and answer to the charges against them. The Judicial Committee may impose a fine on the member if deemed necessary.
-2. Any member may be suspended or expelled by a Class C vote after two weeks of consideration by the brotherhood. A suspended or expelled member loses all rights and privileges of membership in the chapter.
-3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a majority vote of the Judicial Committee. This expulsion is subject to review at the next Chapter meeting at which the expulsion may be overturned by a Class C vote.
-4. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class C and D vote.
-5. A person who has been expelled must petition the Judicial Committee for the return of active membership. Following Judicial Committee’s approval they can regain active membership following a Class C and D vote.
+2. Any member may be suspended Class B vote after two weeks of consideration by the brotherhood. A suspended member loses all rights and privileges of membership in the chapter. The suspension will have a duration of up to one (1) year, at the end of which the member's status must be reevaluated.
+3. Any member may be expelled by a Class C vote after two weeks of consideration by the brotherhood. An expelled member loses all rights and privileges of membership in the chapter.
+4. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a Class J vote.
+5. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class B vote.
+6. A person who has been expelled must petition the Judicial Committee for the return of active membership by a Class J vote. Following Judicial Committee’s approval they can regain active membership following a Class C vote.
 
 ## Article IX: Housing
 
@@ -728,7 +740,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 1. In order to afford the cost of the physical House, we must be able to ensure that it is occupied at an optimum capacity.
 2. Only active brothers are allowed to live in the House.
 3. Any member may live in the house with the approval of the brotherhood and the Alumni Board.
-4. Non-member boarders shall only be solicited to live in the House after a class B and D vote by the undergraduate brotherhood, and must subsequently be approved by the Alumni Association of the Epsilon Iota Chapter. No boarders shall be allowed to live in the House until both requirements are met.
+4. Non-member boarders shall only be solicited to live in the House after a class B vote by the undergraduate brotherhood, and must subsequently be approved by the Alumni Association of the Epsilon Iota Chapter. No boarders shall be allowed to live in the House until both requirements are met. Veto power will be held by all members living in house.
 
 ### Section 2: Required live-ins
 
@@ -863,38 +875,35 @@ The chapter can only thrive if its members work to maintain its functions. This 
 
 ## Appendix 1: Vote class totals
 
-Class D is the MAXIMUM number of no votes where the vote still passes
 
-
-| Brothers  | Class A | Class B | Class C | Class D |
-| ---------:| ------- | ------- | ------- | ------- |
-| 8         | 5       | 6       | 8       | 0       |
-| 9         | 6       | 6       | 9       | 0       |
-| 10        | 6       | 7       | 9       | 0       |
-| 11        | 6       | 8       | 10      | 0       |
-| 12        | 7       | 8       | 11      | 0       |
-| 13        | 7       | 9       | 12      | 0       |
-| 14        | 8       | 10      | 13      | 0       |
-| 15        | 8       | 10      | 14      | 0       |
-| 16        | 9       | 11      | 15      | 0       |
-| 17        | 9       | 12      | 16      | 0       |
-| 18        | 10      | 12      | 17      | 0       |
-| 19        | 10      | 13      | 18      | 0       |
-| 20        | 11      | 14      | 18      | 1       |
-| 21        | 11      | 14      | 19      | 1       |
-| 22        | 12      | 15      | 20      | 1       |
-| 23        | 12      | 16      | 21      | 1       |
-| 24        | 13      | 16      | 22      | 1       |
-| 25        | 13      | 17      | 23      | 1       |
-| 26        | 14      | 18      | 24      | 1       |
-| 27        | 14      | 18      | 25      | 1       |
-| 28        | 15      | 19      | 26      | 1       |
-| 29        | 15      | 20      | 27      | 1       |
+| Brothers  | Class A | Class B | Class C |
+| ---------:| ------- | ------- | ------- |
+| 8         | 5       | 6       | 8       |
+| 9         | 6       | 6       | 9       |
+| 10        | 6       | 7       | 9       |
+| 11        | 6       | 8       | 10      |
+| 12        | 7       | 8       | 11      |
+| 13        | 7       | 9       | 12      |
+| 14        | 8       | 10      | 13      |
+| 15        | 8       | 10      | 14      |
+| 16        | 9       | 11      | 15      |
+| 17        | 9       | 12      | 16      |
+| 18        | 10      | 12      | 17      |
+| 19        | 10      | 13      | 18      |
+| 20        | 11      | 14      | 18      |
+| 21        | 11      | 14      | 19      |
+| 22        | 12      | 15      | 20      |
+| 23        | 12      | 16      | 21      |
+| 24        | 13      | 16      | 22      |
+| 25        | 13      | 17      | 23      |
+| 26        | 14      | 18      | 24      |
+| 27        | 14      | 18      | 25      |
+| 28        | 15      | 19      | 26      |
+| 29        | 15      | 20      | 27      |
 
 
 ```python
 def class_A(num): return math.floor(num/2) + 1
 def class_B(num): return math.ceil(num * 2 / 3)
 def class_C(num): return math.ceil(num * 9 / 10)
-def class_D(num): return math.floor(num * .05)
 ```
