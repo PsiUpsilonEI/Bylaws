@@ -167,7 +167,7 @@
 
 #### Brief Summary of Vote Classes
 
-| Class    | Description | Incomplete List |
+| Class    | Description | Non-Exhaustive List |
 |----------|--------------------------------------------------------------------------------------|----------------------|
 | A | Routine decisions requiring a simple majority | Approving appointed positions, chapter policies, impeaching officers, approving room and board budgets, suspending bylaws, extending bids |
 | B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, suspending a brother, reinstating a suspended brother |
