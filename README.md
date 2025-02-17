@@ -727,10 +727,11 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 ## Article VIII: Suspension and Expulsion
 
 1. Any member who has been reported as acting contrary to the interests of the Chapter shall, after due notice, be required to go before the Judicial Committee and answer to the charges against them. The Judicial Committee may impose a fine on the member if deemed necessary.
-2. Any member may be suspended or expelled by a Class C vote after two weeks of consideration by the brotherhood. A suspended or expelled member loses all rights and privileges of membership in the chapter.
-3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a Class J vote.
-4. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class B vote.
-5. A person who has been expelled must petition the Judicial Committee for the return of active membership by a Class J vote. Following Judicial Committee’s approval they can regain active membership following a Class C vote.
+2. Any member may be suspended Class B vote after two weeks of consideration by the brotherhood. A suspended member loses all rights and privileges of membership in the chapter. The suspension will have a duration of up to one (1) year, at the end of which the member's status must be reevaluated.
+3. Any member may be expelled by a Class C vote after two weeks of consideration by the brotherhood. An expelled member loses all rights and privileges of membership in the chapter.
+4. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a Class J vote.
+5. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class B vote.
+6. A person who has been expelled must petition the Judicial Committee for the return of active membership by a Class J vote. Following Judicial Committee’s approval they can regain active membership following a Class C vote.
 
 ## Article IX: Housing
 
