@@ -170,7 +170,7 @@
 | Class    | Description | Incomplete List |
 |----------|--------------------------------------------------------------------------------------|----------------------|
 | A | Routine decisions requiring a simple majority | Approving appointed positions, chapter policies, impeaching officers, approving room and board budgets, suspending bylaws, extending bids |
-| B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, reinstating a suspended brother, ratifying J-Board's decision to reinstate an expelled brother, allowing non-members to live in-house |
+| B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, reinstating a suspended brother, ratifying J-Board's decision to reinstate an expelled brother |
 | C | High-Stakes decisions requiring near-unanimous approval | Expelling a brother  |
 | E | Emergency decisions and routine implementation of chapter resolutions | Granting alumni status to an active member |
 | J | Judicial rulings, constitutional interpretation, and disciplinary actions | Changing an active member to inactive status (and vice versa), levying fines for non-attendance |
@@ -739,7 +739,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 1. In order to afford the cost of the physical House, we must be able to ensure that it is occupied at an optimum capacity.
 2. Only active brothers are allowed to live in the House.
 3. Any member may live in the house with the approval of the brotherhood and the Alumni Board.
-4. Non-member boarders shall only be solicited to live in the House after a class B vote by the undergraduate brotherhood, and must subsequently be approved by the Alumni Association of the Epsilon Iota Chapter. No boarders shall be allowed to live in the House until both requirements are met.
+4. Non-member boarders shall only be solicited to live in the House after a class B vote by the undergraduate brotherhood, and must subsequently be approved by the Alumni Association of the Epsilon Iota Chapter. No boarders shall be allowed to live in the House until both requirements are met. Veto power will be held by all members living in house.
 
 ### Section 2: Required live-ins
 
