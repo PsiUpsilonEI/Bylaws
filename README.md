@@ -170,8 +170,8 @@
 | Class    | Description | Incomplete List |
 |----------|--------------------------------------------------------------------------------------|----------------------|
 | A | Routine decisions requiring a simple majority | Approving appointed positions, chapter policies, impeaching officers, approving room and board budgets, suspending bylaws, extending bids |
-| B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, reinstating a suspended brother, ratifying J-Board's decision to reinstate an expelled brother |
-| C | High-Stakes decisions requiring near-unanimous approval | Expelling a brother  |
+| B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, reinstating a suspended brother |
+| C | High-Stakes decisions requiring near-unanimous approval | Expelling a brother, ratifying J-Board's decision to reinstate an expelled brother |
 | E | Emergency decisions and routine implementation of chapter resolutions | Granting alumni status to an active member |
 | J | Judicial rulings, constitutional interpretation, and disciplinary actions | Changing an active member to inactive status (and vice versa), levying fines for non-attendance |
 | XJ | Overturning J-Board decisions, including appeals to disciplinary actions | abstaining a J-Board representative |
@@ -730,7 +730,7 @@ The fiscal year shall begin and end yearly on the Thirtieth of June.
 2. Any member may be suspended or expelled by a Class C vote after two weeks of consideration by the brotherhood. A suspended or expelled member loses all rights and privileges of membership in the chapter.
 3. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a Class J vote.
 4. A person who has been suspended may return to their previously held status of membership following reactivation upon approval by a Class B vote.
-5. A person who has been expelled must petition the Judicial Committee for the return of active membership by a Class J vote. Following Judicial Committee’s approval they can regain active membership following a Class B vote.
+5. A person who has been expelled must petition the Judicial Committee for the return of active membership by a Class J vote. Following Judicial Committee’s approval they can regain active membership following a Class C vote.
 
 ## Article IX: Housing
 
