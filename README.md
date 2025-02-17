@@ -170,7 +170,7 @@
 | Class    | Description | Incomplete List |
 |----------|--------------------------------------------------------------------------------------|----------------------|
 | A | Routine decisions requiring a simple majority | Approving appointed positions, chapter policies, impeaching officers, approving room and board budgets, suspending bylaws, extending bids |
-| B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, reinstating a suspended brother |
+| B | Permanent decisions requiring a super-majority | Changing an arbitrary vote class, brother vote, suspending a brother, reinstating a suspended brother |
 | C | High-Stakes decisions requiring near-unanimous approval | Expelling a brother, ratifying J-Board's decision to reinstate an expelled brother |
 | E | Emergency decisions and routine implementation of chapter resolutions | Granting alumni status to an active member |
 | J | Judicial rulings, constitutional interpretation, and disciplinary actions | Changing an active member to inactive status (and vice versa), levying fines for non-attendance |
