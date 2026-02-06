@@ -295,6 +295,7 @@
     8. Network Administrator
     7. Faculty Correspondent
     9. Member Wellness Chairman
+    10. Diversity, Equity, and Inclusion Chairman
 3. Appointed House Offices
     1. Summer House Manager
     2. Summer Treasurer
