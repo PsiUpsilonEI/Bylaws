@@ -508,7 +508,7 @@
 
 1. Shall be responsible for suggested changes to the Chapter’s Alcohol Policy (see Article X) as state and local laws change and as the Chapter evolves.
 2. Shall be responsible for identifying any potential hazards within the Chapter House or at a Chapter event.
-3. Shall be responsible for the maintenence of first aid materials and other medical supplies within the Chapter House.
+3. Shall be responsible for the maintenance of first aid materials and other medical supplies within the Chapter House.
 4. Shall monitor parties according to all Institute, State, Federal and Psi Upsilon International Fraternity policies.
 5. Shall be responsible for suggesting amendments to the Chapter’s Risk Management Program (see Article XI).
 6. Shall enforce the chapter’s risk management policies.
