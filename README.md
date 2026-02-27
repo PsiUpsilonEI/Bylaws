@@ -110,12 +110,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Cynthia Wu
+- Archon: Solar Li
 - Vice President of Internal Affairs: Nori Melville
-- Vice President of External Affairs: Beatrix Malay
+- Vice President of External Affairs: Cynthia Wu
 - Treasurer: Regan O'Callaghan
-- House Manager: Janna Moussiere
-- Secretary: violet Lu
+- House Manager: Xavier Aniello, Robyn Haney
+- Secretary: Aurora Chen
 
 ## Article I: The Bylaws
 
@@ -507,12 +507,13 @@
 #### Risk Manager
 
 1. Shall be responsible for suggested changes to the Chapter’s Alcohol Policy (see Article X) as state and local laws change and as the Chapter evolves.
-2. Shall be responsible for identifying any potential hazards within the Chapter House or at a Chapter event
-3. Shall monitor parties according to all Institute, State, Federal and Psi Upsilon International Fraternity policies.
-4. Shall be responsible for suggesting amendments to the Chapter’s Risk Management Program(See Article XI)  
-5. Shall enforce the chapter’s risk management policies
-6. Shall ensure all members are properly trained in risk mitigation techniques by giving a presentation or similar programming by the end of rush every semester.
-7. Shall Chair the Risk Management Policy Committee.
+2. Shall be responsible for identifying any potential hazards within the Chapter House or at a Chapter event.
+3. Shall be responsible for the maintenence of first aid materials and other medical supplies within the Chapter House.
+4. Shall monitor parties according to all Institute, State, Federal and Psi Upsilon International Fraternity policies.
+5. Shall be responsible for suggesting amendments to the Chapter’s Risk Management Program (see Article XI).
+6. Shall enforce the chapter’s risk management policies.
+7. Shall ensure all members are properly trained in risk mitigation techniques by giving a presentation or similar programming by the end of rush every semester.
+8. Shall Chair the Risk Management Policy Committee.
 
 #### Summer House Manager
 
