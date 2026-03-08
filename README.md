@@ -318,9 +318,9 @@
 #### Subsection A: General
 
 1. The candidate who receives the most votes under an approval vote shall be elected.
-2. Election days shall be determined by the Archon. Election of the Major Offices must be in November or December.
+2. Election days shall be determined by the Archon. Election of the Major Offices must be in April or May.
 3. Election shall occur at least two weeks before the end of the Spring semester. 
-    1. Elections for Second Angelos and Social Chair will instead occur at least two weeks before the end of the fall semester
+    1. Elections for Social Chair will instead occur at least two weeks before the end of the fall semester
     2. Elections for the judicial board shall occur within the first three weeks of each semester.
 4. Each officer will serve for one year or until the next election.
 5. New officers take office at the Chapter meeting after they are elected or at the first Chapter meeting of the next semester; to be determined by the Archon.
