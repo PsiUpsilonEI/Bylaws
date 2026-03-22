@@ -300,7 +300,6 @@
     1. Summer House Manager
     2. Summer Treasurer
     3. Songleader
-    4. Network Administrator
 4. Judicial Committee
     1. Chief Representative
     2. Senior Representative
